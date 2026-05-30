@@ -1,0 +1,7 @@
+Metric,Value
+Positive differences,6.0
+Negative differences,4.0
+Ties,0.0
+P-value,0.75390625
+Mean SimCLR accuracy,70.65292096219932
+Mean YOLO accuracy,70.00000059604645

@@ -1,0 +1,1169 @@
+OpCode	PointIndex	Filename	Frame	Time	Period	PeriodTime	ImageCol	ImageRow	RectWidth	RectHeight	Family	Genus	Species	Code	Number	Stage	Activity	Comment	Attribute9	Attribute10
+14-01_Pondo_12	0	14-01_Pondo_12_L_Cam6.avi	5669	3.77933	Analysis time	0.00000	928.75740	571.26316	0.00000	0.00000								Time on seabed		
+14-01_Pondo_12	1	14-01_Pondo_12_L_Cam6.avi	6064	4.04267	Analysis time	0.26333	1229.82249	622.42105	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Feeding			
+14-01_Pondo_12	2	14-01_Pondo_12_L_Cam6.avi	6334	4.22267	Analysis time	0.44333	715.73964	753.15789	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Feeding			
+14-01_Pondo_12	3	14-01_Pondo_12_L_Cam6.avi	6334	4.22267	Analysis time	0.44333	1337.75148	670.73684	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Feeding			
+14-01_Pondo_12	4	14-01_Pondo_12_L_Cam6.avi	6560	4.37333	Analysis time	0.59400	1564.97041	602.52632	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_12	5	14-01_Pondo_12_L_Cam6.avi	7275	4.85000	Analysis time	1.07067	985.56213	790.10526	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	J	Passing			
+14-01_Pondo_12	6	14-01_Pondo_12_L_Cam6.avi	7404	4.93600	Analysis time	1.15667	1760.94675	659.36842	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	7	14-01_Pondo_12_L_Cam6.avi	8112	5.40800	Analysis time	1.62867	852.07101	855.47368	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	8	14-01_Pondo_12_L_Cam6.avi	8332	5.55467	Analysis time	1.77533	1454.20118	676.42105	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	9	14-01_Pondo_12_L_Cam6.avi	9301	6.20067	Analysis time	2.42133	227.21893	801.47368	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	J	Passing			
+14-01_Pondo_12	10	14-01_Pondo_12_L_Cam6.avi	10615	7.07667	Analysis time	3.29733	275.50296	230.21053	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	11	14-01_Pondo_12_L_Cam6.avi	12211	8.14067	Analysis time	4.36133	735.62130	679.26316	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_12	12	14-01_Pondo_12_L_Cam6.avi	12347	8.23133	Analysis time	4.45200	1422.95858	599.68421	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Passing			
+14-01_Pondo_12	13	14-01_Pondo_12_L_Cam6.avi	12473	8.31533	Analysis time	4.53600	1601.89349	463.26316	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	14	14-01_Pondo_12_L_Cam6.avi	12863	8.57533	Analysis time	4.79600	1445.68047	866.84211	0.00000	0.00000	Serranidae	Epinephelus	andersoni	33002	1	AD	Passing			
+14-01_Pondo_12	15	14-01_Pondo_12_L_Cam6.avi	12946	8.63067	Analysis time	4.85133	1488.28402	511.57895	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	16	14-01_Pondo_12_L_Cam6.avi	13053	8.70200	Analysis time	4.92267	1366.15385	508.73684	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Feeding			
+14-01_Pondo_12	17	14-01_Pondo_12_L_Cam6.avi	13357	8.90467	Analysis time	5.12533	1530.88757	702.00000	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	18	14-01_Pondo_12_L_Cam6.avi	14245	9.49667	Analysis time	5.71733	1278.10651	645.15789	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	19	14-01_Pondo_12_L_Cam6.avi	14245	9.49667	Analysis time	5.71733	1400.23669	611.05263	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	20	14-01_Pondo_12_L_Cam6.avi	14245	9.49667	Analysis time	5.71733	1667.21893	542.84211	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	21	14-01_Pondo_12_L_Cam6.avi	14299	9.53267	Analysis time	5.75333	1454.20118	900.94737	0.00000	0.00000	Serranidae	Epinephelus	andersoni	33002	1	AD	Passing			
+14-01_Pondo_12	22	14-01_Pondo_12_L_Cam6.avi	14837	9.89133	Analysis time	6.11200	988.40237	798.63158	0.00000	0.00000	Ariidae	Galeichthys	trowi	2003	1	AD	Attracted			
+14-01_Pondo_12	23	14-01_Pondo_12_L_Cam6.avi	16524	11.01600	Analysis time	7.23667	1317.86982	679.26316	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Feeding			
+14-01_Pondo_12	24	14-01_Pondo_12_L_Cam6.avi	16650	11.10000	Analysis time	7.32067	150.53254	329.68421	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	25	14-01_Pondo_12_L_Cam6.avi	16650	11.10000	Analysis time	7.32067	1777.98817	341.05263	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	26	14-01_Pondo_12_L_Cam6.avi	16989	11.32600	Analysis time	7.54667	823.66864	682.10526	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	27	14-01_Pondo_12_L_Cam6.avi	16989	11.32600	Analysis time	7.54667	1451.36095	397.89474	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	28	14-01_Pondo_12_L_Cam6.avi	16991	11.32733	Analysis time	7.54800	715.73964	798.63158	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	29	14-01_Pondo_12_L_Cam6.avi	16991	11.32733	Analysis time	7.54800	1465.56213	696.31579	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	30	14-01_Pondo_12_L_Cam6.avi	17054	11.36933	Analysis time	7.59000	391.95266	756.00000	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	31	14-01_Pondo_12_L_Cam6.avi	17469	11.64600	Analysis time	7.86667	133.49112	667.89474	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	32	14-01_Pondo_12_L_Cam6.avi	17469	11.64600	Analysis time	7.86667	613.49112	667.89474	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	33	14-01_Pondo_12_L_Cam6.avi	17469	11.64600	Analysis time	7.86667	1283.78698	503.05263	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	34	14-01_Pondo_12_L_Cam6.avi	17475	11.65000	Analysis time	7.87067	1295.14793	147.78947	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	35	14-01_Pondo_12_L_Cam6.avi	18275	12.18333	Analysis time	8.40400	556.68639	540.00000	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	36	14-01_Pondo_12_L_Cam6.avi	18275	12.18333	Analysis time	8.40400	908.87574	486.00000	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	37	14-01_Pondo_12_L_Cam6.avi	18275	12.18333	Analysis time	8.40400	1104.85207	406.42105	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	38	14-01_Pondo_12_L_Cam6.avi	19235	12.82333	Analysis time	9.04400	991.24260	514.42105	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	39	14-01_Pondo_12_L_Cam6.avi	19261	12.84067	Analysis time	9.06133	971.36095	761.68421	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	40	14-01_Pondo_12_L_Cam6.avi	19261	12.84067	Analysis time	9.06133	1289.46746	852.63158	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	41	14-01_Pondo_12_L_Cam6.avi	19261	12.84067	Analysis time	9.06133	1349.11243	810.00000	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	42	14-01_Pondo_12_L_Cam6.avi	19261	12.84067	Analysis time	9.06133	1380.35503	636.63158	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	43	14-01_Pondo_12_L_Cam6.avi	19261	12.84067	Analysis time	9.06133	1772.30769	704.84211	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	44	14-01_Pondo_12_L_Cam6.avi	21195	14.13000	Analysis time	10.35067	1050.88757	733.26316	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Guarding bait			
+14-01_Pondo_12	45	14-01_Pondo_12_L_Cam6.avi	22768	15.17867	Analysis time	11.39933	602.13018	801.47368	0.00000	0.00000	Serranidae	Epinephelus	andersoni	33002	1	AD	Passing			
+14-01_Pondo_12	46	14-01_Pondo_12_L_Cam6.avi	22891	15.26067	Analysis time	11.48133	564.27811	720.36842	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	47	14-01_Pondo_12_L_Cam6.avi	22891	15.26067	Analysis time	11.48133	605.93491	678.21053	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	48	14-01_Pondo_12_L_Cam6.avi	22891	15.26067	Analysis time	11.48133	720.96450	687.21053	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	49	14-01_Pondo_12_L_Cam6.avi	22891	15.26067	Analysis time	11.48133	809.48521	692.42105	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	50	14-01_Pondo_12_L_Cam6.avi	23353	15.56867	Analysis time	11.78933	880.47337	667.89474	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	51	14-01_Pondo_12_L_Cam6.avi	23353	15.56867	Analysis time	11.78933	1096.23077	630.36842	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	52	14-01_Pondo_12_L_Cam6.avi	23353	15.56867	Analysis time	11.78933	1328.94675	632.36842	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	53	14-01_Pondo_12_L_Cam6.avi	23353	15.56867	Analysis time	11.78933	1641.69822	685.68421	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	54	14-01_Pondo_12_L_Cam6.avi	23709	15.80600	Analysis time	12.02667	940.73964	681.00000	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	55	14-01_Pondo_12_L_Cam6.avi	23709	15.80600	Analysis time	12.02667	1696.05917	629.84211	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	56	14-01_Pondo_12_L_Cam6.avi	24409	16.27267	Analysis time	12.49333	1513.84615	653.68421	0.00000	0.00000	Balistidae	Sufflamen	fraenatus	89005	1	AD	Passing			
+14-01_Pondo_12	57	14-01_Pondo_12_L_Cam6.avi	25859	17.23933	Analysis time	13.46000	1823.43195	665.05263	0.00000	0.00000	Balistidae	Sufflamen	fraenatus	89005	1	AD	Passing			
+14-01_Pondo_12	58	14-01_Pondo_12_L_Cam6.avi	26255	17.50333	Analysis time	13.72400	1039.52663	540.00000	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	59	14-01_Pondo_12_L_Cam6.avi	26255	17.50333	Analysis time	13.72400	1184.37870	477.47368	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	60	14-01_Pondo_12_L_Cam6.avi	26255	17.50333	Analysis time	13.72400	1289.46746	403.57895	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	61	14-01_Pondo_12_L_Cam6.avi	26255	17.50333	Analysis time	13.72400	1408.75740	588.31579	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	62	14-01_Pondo_12_L_Cam6.avi	26255	17.50333	Analysis time	13.72400	1346.27219	684.94737	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	63	14-01_Pondo_12_L_Cam6.avi	26255	17.50333	Analysis time	13.72400	1857.51479	679.26316	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	64	14-01_Pondo_12_L_Cam6.avi	29466	19.64400	Analysis time	15.86467	1286.62722	531.47368	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	65	14-01_Pondo_12_L_Cam6.avi	29466	19.64400	Analysis time	15.86467	1229.82249	608.21053	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	66	14-01_Pondo_12_L_Cam6.avi	29466	19.64400	Analysis time	15.86467	1332.07101	650.84211	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	67	14-01_Pondo_12_L_Cam6.avi	29466	19.64400	Analysis time	15.86467	1391.71598	713.36842	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	68	14-01_Pondo_12_L_Cam6.avi	29466	19.64400	Analysis time	15.86467	1488.28402	881.05263	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	69	14-01_Pondo_12_L_Cam6.avi	29466	19.64400	Analysis time	15.86467	1539.40828	588.31579	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	70	14-01_Pondo_12_L_Cam6.avi	29466	19.64400	Analysis time	15.86467	1641.65680	559.89474	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	71	14-01_Pondo_12_L_Cam6.avi	29466	19.64400	Analysis time	15.86467	1513.08876	722.31579	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	72	14-01_Pondo_12_L_Cam6.avi	31831	21.22067	Analysis time	17.44133	826.50888	392.21053	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_12	73	14-01_Pondo_12_L_Cam6.avi	33337	22.22467	Analysis time	18.44533	318.10651	625.26316	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Passing			
+14-01_Pondo_12	74	14-01_Pondo_12_L_Cam6.avi	33337	22.22467	Analysis time	18.44533	1141.77515	639.47368	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Passing			
+14-01_Pondo_12	75	14-01_Pondo_12_L_Cam6.avi	34846	23.23067	Analysis time	19.45133	320.94675	673.57895	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Passing			
+14-01_Pondo_12	76	14-01_Pondo_12_L_Cam6.avi	36813	24.54200	Analysis time	20.76267	1050.88757	460.42105	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Passing			
+14-01_Pondo_12	77	14-01_Pondo_12_L_Cam6.avi	38947	25.96467	Analysis time	22.18533	266.98225	505.89474	0.00000	0.00000	Acanthuridae	Acanthurus	dussumieri	88001	1	AD	Passing			
+14-01_Pondo_12	78	14-01_Pondo_12_L_Cam6.avi	39037	26.02467	Analysis time	22.24533	826.50888	474.63158	0.00000	0.00000	Labridae	Bodianus	perditio	84014	1	AD	Passing			
+14-01_Pondo_12	79	14-01_Pondo_12_L_Cam6.avi	39321	26.21400	Analysis time	22.43467	164.73373	531.47368	0.00000	0.00000	Labridae	Bodianus	perditio	84014	1	AD	Passing			
+14-01_Pondo_12	80	14-01_Pondo_12_L_Cam6.avi	39678	26.45200	Analysis time	22.67267	1871.71598	468.94737	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	81	14-01_Pondo_12_L_Cam6.avi	39678	26.45200	Analysis time	22.67267	801.30769	707.57895	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	82	14-01_Pondo_12_L_Cam6.avi	39678	26.45200	Analysis time	22.67267	753.97041	703.78947	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	83	14-01_Pondo_12_L_Cam6.avi	39678	26.45200	Analysis time	22.67267	836.81065	656.89474	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	84	14-01_Pondo_12_L_Cam6.avi	39678	26.45200	Analysis time	22.67267	780.95266	641.26316	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	85	14-01_Pondo_12_L_Cam6.avi	39849	26.56600	Analysis time	22.78667	283.86391	723.21053	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	86	14-01_Pondo_12_L_Cam6.avi	39849	26.56600	Analysis time	22.78667	366.94083	691.94737	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	87	14-01_Pondo_12_L_Cam6.avi	39849	26.56600	Analysis time	22.78667	535.93491	686.26316	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	88	14-01_Pondo_12_L_Cam6.avi	39849	26.56600	Analysis time	22.78667	474.15976	755.89474	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	89	14-01_Pondo_12_L_Cam6.avi	39849	26.56600	Analysis time	22.78667	481.97041	691.23684	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	90	14-01_Pondo_12_L_Cam6.avi	40835	27.22333	Analysis time	23.44400	1025.32544	775.89474	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Feeding			
+14-01_Pondo_12	91	14-01_Pondo_12_L_Cam6.avi	42016	28.01067	Analysis time	24.23133	860.59172	770.21053	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	92	14-01_Pondo_12_L_Cam6.avi	42016	28.01067	Analysis time	24.23133	710.05917	795.78947	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	93	14-01_Pondo_12_L_Cam6.avi	42016	28.01067	Analysis time	24.23133	531.12426	815.68421	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	94	14-01_Pondo_12_L_Cam6.avi	42016	28.01067	Analysis time	24.23133	437.39645	821.36842	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	95	14-01_Pondo_12_L_Cam6.avi	42016	28.01067	Analysis time	24.23133	634.02367	796.26316	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+14-01_Pondo_12	96	14-01_Pondo_12_L_Cam6.avi	48213	32.14200	Analysis time	28.36267	974.20118	662.21053	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	97	14-01_Pondo_12_L_Cam6.avi	48213	32.14200	Analysis time	28.36267	823.66864	602.52632	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	98	14-01_Pondo_12_L_Cam6.avi	49193	32.79533	Analysis time	29.01600	1323.55030	844.10526	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Feeding			
+14-01_Pondo_12	99	14-01_Pondo_12_L_Cam6.avi	50847	33.89800	Analysis time	30.11867	423.19527	557.05263	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_12	100	14-01_Pondo_12_L_Cam6.avi	50847	33.89800	Analysis time	30.11867	738.46154	676.42105	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_12	101	14-01_Pondo_12_L_Cam6.avi	50847	33.89800	Analysis time	30.11867	974.20118	622.42105	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_12	102	14-01_Pondo_12_L_Cam6.avi	51229	34.15267	Analysis time	30.37333	1542.24852	216.00000	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	103	14-01_Pondo_12_L_Cam6.avi	51592	34.39467	Analysis time	30.61533	497.04142	414.94737	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	104	14-01_Pondo_12_L_Cam6.avi	51592	34.39467	Analysis time	30.61533	786.74556	599.68421	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	105	14-01_Pondo_12_L_Cam6.avi	51592	34.39467	Analysis time	30.61533	823.66864	787.26316	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	106	14-01_Pondo_12_L_Cam6.avi	52673	35.11533	Analysis time	31.33600	798.10651	696.31579	0.00000	0.00000	Ariidae	Galeichthys	trowi	2003	1	AD	Passing			
+14-01_Pondo_12	107	14-01_Pondo_12_L_Cam6.avi	52673	35.11533	Analysis time	31.33600	1053.72781	653.68421	0.00000	0.00000	Ariidae	Galeichthys	trowi	2003	1	AD	Passing			
+14-01_Pondo_12	108	14-01_Pondo_12_L_Cam6.avi	52828	35.21867	Analysis time	31.43933	636.21302	750.31579	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	109	14-01_Pondo_12_L_Cam6.avi	52828	35.21867	Analysis time	31.43933	633.37278	594.00000	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	110	14-01_Pondo_12_L_Cam6.avi	52828	35.21867	Analysis time	31.43933	576.56805	412.10526	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	111	14-01_Pondo_12_L_Cam6.avi	56538	37.69200	Analysis time	33.91267	599.28994	665.05263	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+14-01_Pondo_12	112	14-01_Pondo_12_L_Cam6.avi	60121	40.08067	Analysis time	36.30133	1278.10651	827.05263	0.00000	0.00000	Triakidae	Scylliogaleus	quecketti	37005	1	AD	Feeding			
+14-01_Pondo_12	113	14-01_Pondo_12_L_Cam6.avi	60733	40.48867	Analysis time	36.70933	812.30769	636.63158	0.00000	0.00000	Triakidae	Scylliogaleus	quecketti	37005	1	AD	Passing			
+14-01_Pondo_12	114	14-01_Pondo_12_L_Cam6.avi	60899	40.59933	Analysis time	36.82000	482.84024	594.00000	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Passing			
+14-01_Pondo_12	115	14-01_Pondo_12_L_Cam6.avi	60899	40.59933	Analysis time	36.82000	1045.20710	704.84211	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Passing			
+14-01_Pondo_12	116	14-01_Pondo_12_L_Cam6.avi	60899	40.59933	Analysis time	36.82000	1505.32544	721.89474	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Passing			
+14-01_Pondo_12	117	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	900.35503	324.00000	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	118	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	883.31361	460.42105	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	119	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	1511.00592	861.15789	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	120	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	1474.08284	721.89474	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	121	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	1613.25444	568.42105	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	122	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	1638.81657	477.47368	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	123	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	1635.97633	389.36842	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	124	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	1831.95266	628.10526	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	125	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	1735.38462	679.26316	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	126	14-01_Pondo_12_L_Cam6.avi	61650	41.10000	Analysis time	37.32067	1303.66864	557.05263	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_12	127	14-01_Pondo_12_L_Cam6.avi	69264	46.17600	Analysis time	42.39667	548.16568	650.84211	0.00000	0.00000	Balistidae	Sufflamen	fraenatus	89005	1	M	Passing			
+14-01_Pondo_12	128	14-01_Pondo_12_L_Cam6.avi	74052	49.36800	Analysis time	45.58867	224.37870	792.94737	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+14-01_Pondo_12	129	14-01_Pondo_12_L_Cam6.avi	88769	59.17933	Analysis time	55.40000	357.86982	630.94737	0.00000	0.00000	Serranidae	Epinephelus	marginatus	33005	1	AD	Passing			
+14-01_Pondo_12	130	14-01_Pondo_12_L_Cam6.avi	95650	63.76667	Analysis time	59.98733	803.78698	159.15789	0.00000	0.00000								end		
+14-01_Pondo_31	0	14-01_Pondo_31_L_Cam4.avi	11580	7.72000	Analysis	1.65000	513.74607	580.29851	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_31	1	14-01_Pondo_31_L_Cam4.avi	14526	9.68400	Analysis	3.61400	993.24239	888.58209	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Feeding			
+14-01_Pondo_31	2	14-01_Pondo_31_L_Cam4.avi	17525	11.68333	Analysis	5.61333	1075.84470	36.26866	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	3	14-01_Pondo_31_L_Cam4.avi	19005	12.67000	Analysis	6.60000	1674.20776	102.76119	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	4	14-01_Pondo_31_L_Cam4.avi	19005	12.67000	Analysis	6.60000	1867.61805	118.88060	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	5	14-01_Pondo_31_L_Cam4.avi	19566	13.04400	Analysis	6.97400	1039.58027	854.32836	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_31	6	14-01_Pondo_31_L_Cam4.avi	43961	29.30733	Analysis	23.23733	1037.56558	535.97015	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	7	14-01_Pondo_31_L_Cam4.avi	43961	29.30733	Analysis	23.23733	1156.43232	564.17910	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	8	14-01_Pondo_31_L_Cam4.avi	46835	31.22333	Analysis	25.15333	1174.56453	445.29851	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Feeding			
+14-01_Pondo_31	9	14-01_Pondo_31_L_Cam4.avi	47839	31.89267	Analysis	25.82267	650.74502	493.65672	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	10	14-01_Pondo_31_L_Cam4.avi	47839	31.89267	Analysis	25.82267	973.09549	396.94030	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	11	14-01_Pondo_31_L_Cam4.avi	47839	31.89267	Analysis	25.82267	1384.09234	437.23881	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	12	14-01_Pondo_31_L_Cam4.avi	50858	33.90533	Analysis	27.83533	525.83421	652.83582	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	13	14-01_Pondo_31_L_Cam4.avi	50858	33.90533	Analysis	27.83533	638.65687	477.53731	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	14	14-01_Pondo_31_L_Cam4.avi	50858	33.90533	Analysis	27.83533	775.65582	691.11940	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	15	14-01_Pondo_31_L_Cam4.avi	59783	39.85533	Analysis	33.78533	186.99895	183.59328	0.00000	0.00000	Tetraodontidae	Arothron	immaculatus	133002	1	AD	Passing	confirm		
+14-01_Pondo_31	16	14-01_Pondo_31_L_Cam4.avi	59783	39.85533	Analysis	33.78533	1053.41028	154.86567	0.00000	0.00000	Tetraodontidae	Arothron	immaculatus	133002	1	AD	Passing			
+14-01_Pondo_31	17	14-01_Pondo_31_L_Cam4.avi	68756	45.83733	Analysis	39.76733	94.69045	753.58209	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	18	14-01_Pondo_31_L_Cam4.avi	68756	45.83733	Analysis	39.76733	678.95068	723.35821	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	19	14-01_Pondo_31_L_Cam4.avi	68756	45.83733	Analysis	39.76733	1017.41868	596.41791	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	20	14-01_Pondo_31_L_Cam4.avi	68756	45.83733	Analysis	39.76733	1446.54774	521.86567	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_31	21	14-01_Pondo_31_L_Cam4.avi	69706	46.47067	Analysis	40.40067	582.24554	550.07463	0.00000	0.00000	Cheilodactylidae	Chirodactylus	jessicalenorum	6002	1	AD	Passing			
+14-01_Pondo_31	22	14-01_Pondo_31_L_Cam4.avi	70228	46.81867	Analysis	40.74867	36.26443	384.85075	0.00000	0.00000	Labridae	Bodianus	bilunulatus	84003	1	AD	Passing			
+14-01_Pondo_31	23	14-01_Pondo_31_L_Cam4.avi	72659	48.43933	Analysis	42.36933	944.04197	504.86567	0.00000	0.00000	Cheilodactylidae	Chirodactylus	jessicalenorum	6002	1	AD	Passing			
+14-01_Pondo_31	24	14-01_Pondo_31_L_Cam4.avi	81408	54.27200	Analysis	48.20200	320.33578	485.59701	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_31	25	14-01_Pondo_31_L_Cam4.avi	81408	54.27200	Analysis	48.20200	759.53830	640.74627	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_31	26	14-01_Pondo_31_L_Cam4.avi	85866	57.24400	Analysis	51.17400	846.16999	654.85075	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_31	27	14-01_Pondo_31_L_Cam4.avi	85866	57.24400	Analysis	51.17400	1398.19517	449.32836	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	0	14-01_Pondo_37_L_Cam3.avi	7504	5.00267	Analysis	1.41467	874.37566	656.86567	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Feeding			
+14-01_Pondo_37	1	14-01_Pondo_37_L_Cam3.avi	7504	5.00267	Analysis	1.41467	495.61385	711.26866	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+14-01_Pondo_37	2	14-01_Pondo_37_L_Cam3.avi	8160	5.44000	Analysis	1.85200	1420.35677	773.73134	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	3	14-01_Pondo_37_L_Cam3.avi	9358	6.23867	Analysis	2.65067	1168.52046	626.64179	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	4	14-01_Pondo_37_L_Cam3.avi	9358	6.23867	Analysis	2.65067	1386.10703	737.46269	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	5	14-01_Pondo_37_L_Cam3.avi	16830	11.22000	Analysis	7.63200	1186.65268	799.92537	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	6	14-01_Pondo_37_L_Cam3.avi	16830	11.22000	Analysis	7.63200	1315.59286	761.64179	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	7	14-01_Pondo_37_L_Cam3.avi	16830	11.22000	Analysis	7.63200	1424.38615	785.82090	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	8	14-01_Pondo_37_L_Cam3.avi	17367	11.57800	Analysis	7.99000	1827.32424	340.52239	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	9	14-01_Pondo_37_L_Cam3.avi	24917	16.61133	Analysis	13.02333	682.98006	159.17910	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+14-01_Pondo_37	10	14-01_Pondo_37_L_Cam3.avi	26737	17.82467	Analysis	14.23667	894.52256	453.35821	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	11	14-01_Pondo_37_L_Cam3.avi	27238	18.15867	Analysis	14.57067	1418.34208	509.77612	0.00000	0.00000	Sparidae	Rhabdosargus	holubi	34029	1	AD	Passing			
+14-01_Pondo_37	12	14-01_Pondo_37_L_Cam3.avi	28394	18.92933	Analysis	15.34133	761.55299	701.19403	0.00000	0.00000	Sparidae	Rhabdosargus	holubi	34029	1	AD	Passing			
+14-01_Pondo_37	13	14-01_Pondo_37_L_Cam3.avi	28753	19.16867	Analysis	15.58067	108.79328	282.08955	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	14	14-01_Pondo_37_L_Cam3.avi	28753	19.16867	Analysis	15.58067	1045.62434	239.77612	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	15	14-01_Pondo_37_L_Cam3.avi	28753	19.16867	Analysis	15.58067	1156.90661	477.82836	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	16	14-01_Pondo_37_L_Cam3.avi	29155	19.43667	Analysis	15.84867	451.29066	441.26866	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_37	17	14-01_Pondo_37_L_Cam3.avi	31294	20.86267	Analysis	17.27467	130.95488	513.80597	0.00000	0.00000	Mullidae	Parupeneus	macronemus	86006	1	AD	Passing			
+14-01_Pondo_37	18	14-01_Pondo_37_L_Cam3.avi	31585	21.05667	Analysis	17.46867	1805.16264	384.85075	0.00000	0.00000	Mullidae	Parupeneus	macronemus	86006	1	AD	Passing			
+14-01_Pondo_37	19	14-01_Pondo_37_L_Cam3.avi	31585	21.05667	Analysis	17.46867	495.61385	439.25373	0.00000	0.00000	Mullidae	Parupeneus	macronemus	86006	1	AD	Passing			
+14-01_Pondo_37	20	14-01_Pondo_37_L_Cam3.avi	33421	22.28067	Analysis	18.69267	834.08185	600.44776	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Feeding			
+14-01_Pondo_37	21	14-01_Pondo_37_L_Cam3.avi	33421	22.28067	Analysis	18.69267	1154.41763	400.97015	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Feeding			
+14-01_Pondo_37	22	14-01_Pondo_37_L_Cam3.avi	33776	22.51733	Analysis	18.92933	824.00839	354.62687	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	23	14-01_Pondo_37_L_Cam3.avi	33776	22.51733	Analysis	18.92933	922.72823	505.74627	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	24	14-01_Pondo_37_L_Cam3.avi	33776	22.51733	Analysis	18.92933	1083.90346	82.61194	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	25	14-01_Pondo_37_L_Cam3.avi	33776	22.51733	Analysis	18.92933	1791.05981	463.43284	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	26	14-01_Pondo_37_L_Cam3.avi	53083	35.38867	Analysis	31.80067	819.97901	441.26866	0.00000	0.00000	Labridae	Bodianus	trilineatus	84023	1	AD	Passing			
+14-01_Pondo_37	27	14-01_Pondo_37_L_Cam3.avi	53083	35.38867	Analysis	31.80067	1287.38720	312.31343	0.00000	0.00000	Labridae	Bodianus	trilineatus	84023	1	AD	Passing			
+14-01_Pondo_37	28	14-01_Pondo_37_L_Cam3.avi	53867	35.91133	Analysis	32.32333	1249.10808	695.14925	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	29	14-01_Pondo_37_L_Cam3.avi	53867	35.91133	Analysis	32.32333	195.07660	683.82836	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	30	14-01_Pondo_37_L_Cam3.avi	53867	35.91133	Analysis	32.32333	404.60441	687.85821	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	31	14-01_Pondo_37_L_Cam3.avi	53867	35.91133	Analysis	32.32333	351.71878	687.35448	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+14-01_Pondo_37	32	14-01_Pondo_37_L_Cam3.avi	63927	42.61800	Analysis	39.03000	830.05247	590.37313	0.00000	0.00000	Dasyatidae	Dasyatis	chrysonota	8001	1	AD	Passing			
+14-01_Pondo_37	33	14-01_Pondo_37_L_Cam3.avi	66303	44.20200	Analysis	40.61400	165.20462	940.97015	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	34	14-01_Pondo_37_L_Cam3.avi	66303	44.20200	Analysis	40.61400	944.88982	338.50746	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	35	14-01_Pondo_37_L_Cam3.avi	66303	44.20200	Analysis	40.61400	1605.70829	400.97015	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	36	14-01_Pondo_37_L_Cam3.avi	66303	44.20200	Analysis	40.61400	1694.35467	473.50746	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_37	37	14-01_Pondo_37_L_Cam3.avi	67012	44.67467	Analysis	41.08667	850.19937	882.53731	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+14-01_Pondo_37	38	14-01_Pondo_37_L_Cam3.avi	67012	44.67467	Analysis	41.08667	817.96432	1019.55224	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+14-01_Pondo_37	39	14-01_Pondo_37_L_Cam3.avi	67012	44.67467	Analysis	41.08667	1480.79748	916.79104	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+14-01_Pondo_37	40	14-01_Pondo_37_L_Cam3.avi	69662	46.44133	Analysis	42.85333	765.58237	503.73134	0.00000	0.00000	Chaetodontidae	Chaetodon	marleyi	79009	1	AD	Passing			
+14-01_Pondo_37	41	14-01_Pondo_37_L_Cam3.avi	70719	47.14600	Analysis	43.55800	173.26338	546.04478	0.00000	0.00000	Chaetodontidae	Chaetodon	marleyi	79009	1	AD	Passing			
+14-01_Pondo_37	42	14-01_Pondo_37_L_Cam3.avi	70719	47.14600	Analysis	43.55800	282.05666	652.83582	0.00000	0.00000	Chaetodontidae	Chaetodon	marleyi	79009	1	AD	Passing			
+14-01_Pondo_37	43	14-01_Pondo_37_L_Cam3.avi	73900	49.26667	Analysis	45.67867	1591.60546	135.00000	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Feeding			
+14-01_Pondo_37	44	14-01_Pondo_37_L_Cam3.avi	77407	51.60467	Analysis	48.01667	733.34732	805.97015	0.00000	0.00000	Dasyatidae	Dasyatis	chrysonota	8001	1	AD	Passing			
+14-01_Pondo_37	45	14-01_Pondo_37_L_Cam3.avi	78098	52.06533	Analysis	48.47733	1778.97167	332.46269	0.00000	0.00000	Labridae	Bodianus	trilineatus	84023	1	AD	Passing			
+14-01_Pondo_37	46	14-01_Pondo_37_L_Cam3.avi	82977	55.31800	Analysis	51.73000	187.36621	679.02985	0.00000	0.00000	Sparidae	Rhabdosargus	holubi	34029	1	AD	Passing			
+14-01_Pondo_37	47	14-01_Pondo_37_L_Cam3.avi	82977	55.31800	Analysis	51.73000	807.89087	711.26866	0.00000	0.00000	Sparidae	Rhabdosargus	holubi	34029	1	AD	Passing			
+14-01_Pondo_37	48	14-01_Pondo_37_L_Cam3.avi	84164	56.10933	Analysis	52.52133	564.11333	537.98507	0.00000	0.00000	Mullidae	Parupeneus	trifasciatus	86007	1	AD	Passing			
+14-01_Pondo_37	49	14-01_Pondo_37_L_Cam3.avi	86775	57.85000	Analysis	54.26200	590.30430	650.82090	0.00000	0.00000	Chaetodontidae	Chaetodon	marleyi	79009	1	AD	Passing			
+14-01_Pondo_37	50	14-01_Pondo_37_L_Cam3.avi	86775	57.85000	Analysis	54.26200	892.50787	634.70149	0.00000	0.00000	Chaetodontidae	Chaetodon	marleyi	79009	1	AD	Passing			
+14-01_Pondo_38	0	14-01_Pondo_38_L_Cam6.avi	10912	7.27467	Analysis	0.32200	1317.60756	666.94030	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	1	14-01_Pondo_38_L_Cam6.avi	11116	7.41067	Analysis	0.45800	1353.87198	598.43284	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	2	14-01_Pondo_38_L_Cam6.avi	11411	7.60733	Analysis	0.65467	261.90976	578.28358	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	3	14-01_Pondo_38_L_Cam6.avi	11411	7.60733	Analysis	0.65467	858.25813	731.41791	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	4	14-01_Pondo_38_L_Cam6.avi	11411	7.60733	Analysis	0.65467	1100.02099	529.92537	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	5	14-01_Pondo_38_L_Cam6.avi	11597	7.73133	Analysis	0.77867	1470.72403	503.73134	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	6	14-01_Pondo_38_L_Cam6.avi	11917	7.94467	Analysis	0.99200	151.10178	852.31343	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	7	14-01_Pondo_38_L_Cam6.avi	11917	7.94467	Analysis	0.99200	32.23505	689.10448	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	8	14-01_Pondo_38_L_Cam6.avi	11917	7.94467	Analysis	0.99200	1619.81112	542.01493	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	9	14-01_Pondo_38_L_Cam6.avi	11917	7.94467	Analysis	0.99200	1813.22141	54.40299	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	10	14-01_Pondo_38_L_Cam6.avi	12193	8.12867	Analysis	1.17600	318.32109	672.98507	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	11	14-01_Pondo_38_L_Cam6.avi	12193	8.12867	Analysis	1.17600	513.74607	755.59701	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	12	14-01_Pondo_38_L_Cam6.avi	12193	8.12867	Analysis	1.17600	676.93599	624.62687	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	13	14-01_Pondo_38_L_Cam6.avi	12193	8.12867	Analysis	1.17600	1577.50262	501.71642	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	14	14-01_Pondo_38_L_Cam6.avi	12831	8.55400	Analysis	1.60133	1664.13431	374.77612	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+14-01_Pondo_38	15	14-01_Pondo_38_L_Cam6.avi	13049	8.69933	Analysis	1.74667	592.31899	487.61194	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	16	14-01_Pondo_38_L_Cam6.avi	13049	8.69933	Analysis	1.74667	878.40504	753.58209	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	17	14-01_Pondo_38_L_Cam6.avi	13431	8.95400	Analysis	2.00133	844.15530	318.35821	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+14-01_Pondo_38	18	14-01_Pondo_38_L_Cam6.avi	14195	9.46333	Analysis	2.51067	1188.66737	582.31343	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+14-01_Pondo_38	19	14-01_Pondo_38_L_Cam6.avi	15514	10.34267	Analysis	3.39000	644.70094	471.49254	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	20	14-01_Pondo_38_L_Cam6.avi	15514	10.34267	Analysis	3.39000	308.24764	993.35821	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	21	14-01_Pondo_38_L_Cam6.avi	15514	10.34267	Analysis	3.39000	1418.34208	711.26866	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	22	14-01_Pondo_38_L_Cam6.avi	16832	11.22133	Analysis	4.26867	676.93599	747.53731	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+14-01_Pondo_38	23	14-01_Pondo_38_L_Cam6.avi	17513	11.67533	Analysis	4.72267	626.56873	892.61194	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+14-01_Pondo_38	24	14-01_Pondo_38_L_Cam6.avi	17875	11.91667	Analysis	4.96400	989.21301	856.34328	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+14-01_Pondo_38	25	14-01_Pondo_38_L_Cam6.avi	19538	13.02533	Analysis	6.07267	995.25708	652.83582	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Feeding			
+14-01_Pondo_38	26	14-01_Pondo_38_L_Cam6.avi	20052	13.36800	Analysis	6.41533	1067.78594	687.08955	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Feeding			
+14-01_Pondo_38	27	14-01_Pondo_38_L_Cam6.avi	21843	14.56200	Analysis	7.60933	656.78909	862.38806	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	28	14-01_Pondo_38_L_Cam6.avi	21843	14.56200	Analysis	7.60933	805.87618	650.82090	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	29	14-01_Pondo_38_L_Cam6.avi	21843	14.56200	Analysis	7.60933	1122.18258	550.07463	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	30	14-01_Pondo_38_L_Cam6.avi	27754	18.50267	Analysis	11.55000	352.57083	687.08955	0.00000	0.00000	Sparidae	Argyrops	spinifer	34002	1	AD	Passing			
+14-01_Pondo_38	31	14-01_Pondo_38_L_Cam6.avi	32066	21.37733	Analysis	14.42467	624.55404	709.25373	0.00000	0.00000	Sparidae	Argyrops	spinifer	34002	1	AD	Passing			
+14-01_Pondo_38	32	14-01_Pondo_38_L_Cam6.avi	32273	21.51533	Analysis	14.56267	993.24239	485.59701	0.00000	0.00000	Sparidae	Argyrops	spinifer	34002	1	AD	Feeding			
+14-01_Pondo_38	33	14-01_Pondo_38_L_Cam6.avi	32796	21.86400	Analysis	14.91133	1509.00315	681.04478	0.00000	0.00000	Cheilodactylidae	Chirodactylus	jessicalenorum	6002	1	AD	Passing			
+14-01_Pondo_38	34	14-01_Pondo_38_L_Cam6.avi	35545	23.69667	Analysis	16.74400	906.61070	765.67164	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	35	14-01_Pondo_38_L_Cam6.avi	38614	25.74267	Analysis	18.79000	952.94858	703.20896	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	36	14-01_Pondo_38_L_Cam6.avi	38614	25.74267	Analysis	18.79000	1261.19622	644.77612	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	37	14-01_Pondo_38_L_Cam6.avi	39198	26.13200	Analysis	19.17933	807.89087	785.82090	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	38	14-01_Pondo_38_L_Cam6.avi	39198	26.13200	Analysis	19.17933	1369.98951	979.25373	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	39	14-01_Pondo_38_L_Cam6.avi	39488	26.32533	Analysis	19.37267	922.72823	237.76119	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	40	14-01_Pondo_38_L_Cam6.avi	39488	26.32533	Analysis	19.37267	805.87618	537.98507	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	41	14-01_Pondo_38_L_Cam6.avi	39488	26.32533	Analysis	19.37267	1494.90031	314.32836	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	42	14-01_Pondo_38_L_Cam6.avi	39488	26.32533	Analysis	19.37267	1523.10598	644.77612	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	43	14-01_Pondo_38_L_Cam6.avi	41841	27.89400	Analysis	20.94133	173.26338	477.53731	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	44	14-01_Pondo_38_L_Cam6.avi	41841	27.89400	Analysis	20.94133	304.21826	574.25373	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	45	14-01_Pondo_38_L_Cam6.avi	41841	27.89400	Analysis	20.94133	993.24239	554.10448	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	46	14-01_Pondo_38_L_Cam6.avi	41841	27.89400	Analysis	20.94133	1374.01889	612.53731	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	47	14-01_Pondo_38_L_Cam6.avi	42291	28.19400	Analysis	21.24133	1557.35572	521.86567	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Passing			
+14-01_Pondo_38	48	14-01_Pondo_38_L_Cam6.avi	45894	30.59600	Analysis	23.64333	751.47954	582.31343	0.00000	0.00000	Sparidae	Chrysoblephus	cristiceps	34007	1	AD	Passing			
+14-01_Pondo_38	49	14-01_Pondo_38_L_Cam6.avi	46514	31.00933	Analysis	24.05667	1116.13851	624.62687	0.00000	0.00000	Sparidae	Chrysoblephus	cristiceps	34007	1	AD	Feeding			
+14-01_Pondo_38	50	14-01_Pondo_38_L_Cam6.avi	47177	31.45133	Analysis	24.49867	765.58237	763.65672	0.00000	0.00000	Sparidae	Chrysoblephus	cristiceps	34007	1	AD	Passing			
+14-01_Pondo_38	51	14-01_Pondo_38_L_Cam6.avi	48809	32.53933	Analysis	25.58667	566.12802	594.40299	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	52	14-01_Pondo_38_L_Cam6.avi	48809	32.53933	Analysis	25.58667	1106.06506	90.67164	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	53	14-01_Pondo_38_L_Cam6.avi	48809	32.53933	Analysis	25.58667	954.96327	517.83582	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	54	14-01_Pondo_38_L_Cam6.avi	48809	32.53933	Analysis	25.58667	1621.82581	308.28358	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	55	14-01_Pondo_38_L_Cam6.avi	48809	32.53933	Analysis	25.58667	1730.61910	608.50746	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	56	14-01_Pondo_38_L_Cam6.avi	53722	35.81467	Analysis	28.86200	685.89192	753.90299	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	57	14-01_Pondo_38_L_Cam6.avi	53722	35.81467	Analysis	28.86200	771.51626	746.34701	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	58	14-01_Pondo_38_L_Cam6.avi	53722	35.81467	Analysis	28.86200	874.26548	839.03358	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	59	14-01_Pondo_38_L_Cam6.avi	53722	35.81467	Analysis	28.86200	1015.40399	814.02985	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	60	14-01_Pondo_38_L_Cam6.avi	53722	35.81467	Analysis	28.86200	1144.34418	612.53731	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	61	14-01_Pondo_38_L_Cam6.avi	56029	37.35267	Analysis	30.40000	884.44911	618.58209	0.00000	0.00000	Dasyatidae	Dasyatis	chrysonota	8001	1	AD	Passing			
+14-01_Pondo_38	62	14-01_Pondo_38_L_Cam6.avi	56468	37.64533	Analysis	30.69267	366.67366	741.49254	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	63	14-01_Pondo_38_L_Cam6.avi	56468	37.64533	Analysis	30.69267	944.88982	739.47761	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	64	14-01_Pondo_38_L_Cam6.avi	56468	37.64533	Analysis	30.69267	1011.37461	828.13433	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	65	14-01_Pondo_38_L_Cam6.avi	56468	37.64533	Analysis	30.69267	1549.29696	679.02985	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	66	14-01_Pondo_38_L_Cam6.avi	56468	37.64533	Analysis	30.69267	1283.35782	870.44776	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_38	67	14-01_Pondo_38_L_Cam6.avi	58591	39.06067	Analysis	32.10800	1156.43232	930.89552	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	68	14-01_Pondo_38_L_Cam6.avi	58591	39.06067	Analysis	32.10800	1089.94753	227.68657	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	69	14-01_Pondo_38_L_Cam6.avi	59202	39.46800	Analysis	32.51533	562.09864	759.62687	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Passing			
+14-01_Pondo_38	70	14-01_Pondo_38_L_Cam6.avi	59480	39.65333	Analysis	32.70067	1450.57712	386.86567	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Passing			
+14-01_Pondo_38	71	14-01_Pondo_38_L_Cam6.avi	59821	39.88067	Analysis	32.92800	290.11542	723.35821	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	72	14-01_Pondo_38_L_Cam6.avi	59821	39.88067	Analysis	32.92800	410.99685	517.83582	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	73	14-01_Pondo_38_L_Cam6.avi	59821	39.88067	Analysis	32.92800	618.50997	596.41791	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	74	14-01_Pondo_38_L_Cam6.avi	59821	39.88067	Analysis	32.92800	882.43442	451.34328	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	75	14-01_Pondo_38_L_Cam6.avi	59821	39.88067	Analysis	32.92800	1287.38720	467.46269	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	76	14-01_Pondo_38_L_Cam6.avi	73760	49.17333	Analysis	42.22067	1369.98951	830.14925	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Feeding			
+14-01_Pondo_38	77	14-01_Pondo_38_L_Cam6.avi	77649	51.76600	Analysis	44.81333	1095.99161	638.73134	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Passing			
+14-01_Pondo_38	78	14-01_Pondo_38_L_Cam6.avi	77649	51.76600	Analysis	44.81333	1702.41343	640.74627	0.00000	0.00000	Sparidae	Diplodus	hottentotus	34014	1	AD	Passing			
+14-01_Pondo_38	79	14-01_Pondo_38_L_Cam6.avi	79402	52.93467	Analysis	45.98200	207.51312	721.34328	0.00000	0.00000	Triakidae	Scylliogaleus	quecketti	37005	1	AD	Passing			
+14-01_Pondo_38	80	14-01_Pondo_38_L_Cam6.avi	82972	55.31467	Analysis	48.36200	1045.62434	922.83582	0.00000	0.00000	Triakidae	Scylliogaleus	quecketti	37005	1	AD	Passing			
+14-01_Pondo_38	81	14-01_Pondo_38_L_Cam6.avi	84241	56.16067	Analysis	49.20800	263.92445	868.43284	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	82	14-01_Pondo_38_L_Cam6.avi	84241	56.16067	Analysis	49.20800	527.84890	741.49254	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	83	14-01_Pondo_38_L_Cam6.avi	84241	56.16067	Analysis	49.20800	1315.59286	382.83582	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	84	14-01_Pondo_38_L_Cam6.avi	84241	56.16067	Analysis	49.20800	1331.71039	570.22388	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	85	14-01_Pondo_38_L_Cam6.avi	84241	56.16067	Analysis	49.20800	1789.04512	537.98507	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	86	14-01_Pondo_38_L_Cam6.avi	85487	56.99133	Analysis	50.03867	314.29171	110.82090	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	87	14-01_Pondo_38_L_Cam6.avi	85487	56.99133	Analysis	50.03867	1106.06506	272.01493	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	88	14-01_Pondo_38_L_Cam6.avi	85487	56.99133	Analysis	50.03867	836.09654	540.00000	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	89	14-01_Pondo_38_L_Cam6.avi	85487	56.99133	Analysis	50.03867	815.94963	683.05970	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	90	14-01_Pondo_38_L_Cam6.avi	85487	56.99133	Analysis	50.03867	1104.05037	610.52239	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	91	14-01_Pondo_38_L_Cam6.avi	85487	56.99133	Analysis	50.03867	1877.69150	417.08955	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	92	14-01_Pondo_38_L_Cam6.avi	87616	58.41067	Analysis	51.45800	900.56663	793.88060	0.00000	0.00000	Triakidae	Scylliogaleus	quecketti	37005	1	AD	Passing			
+14-01_Pondo_38	93	14-01_Pondo_38_L_Cam6.avi	87940	58.62667	Analysis	51.67400	425.09969	638.73134	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	94	14-01_Pondo_38_L_Cam6.avi	87940	58.62667	Analysis	51.67400	602.39244	465.44776	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	95	14-01_Pondo_38_L_Cam6.avi	87940	58.62667	Analysis	51.67400	775.65582	503.73134	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	96	14-01_Pondo_38_L_Cam6.avi	87940	58.62667	Analysis	51.67400	1095.99161	646.79104	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	97	14-01_Pondo_38_L_Cam6.avi	87940	58.62667	Analysis	51.67400	1253.13746	151.11940	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	98	14-01_Pondo_38_L_Cam6.avi	87940	58.62667	Analysis	51.67400	624.55404	765.67164	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_38	99	14-01_Pondo_38_L_Cam6.avi	88644	59.09600	Analysis	52.14333	253.85100	658.88060	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	100	14-01_Pondo_38_L_Cam6.avi	88644	59.09600	Analysis	52.14333	556.05456	729.40299	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	101	14-01_Pondo_38_L_Cam6.avi	88644	59.09600	Analysis	52.14333	612.46590	947.01493	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	102	14-01_Pondo_38_L_Cam6.avi	90721	60.48067	Analysis	53.52800	1206.79958	330.44776	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+14-01_Pondo_38	103	14-01_Pondo_38_L_Cam6.avi	91663	61.10867	Analysis	54.15600	419.05561	818.05970	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	104	14-01_Pondo_38_L_Cam6.avi	91663	61.10867	Analysis	54.15600	725.28856	729.40299	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	105	14-01_Pondo_38_L_Cam6.avi	91663	61.10867	Analysis	54.15600	1228.96118	1001.41791	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	106	14-01_Pondo_38_L_Cam6.avi	91663	61.10867	Analysis	54.15600	1841.42707	622.61194	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	107	14-01_Pondo_38_L_Cam6.avi	92605	61.73667	Analysis	54.78400	543.96642	618.58209	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	108	14-01_Pondo_38_L_Cam6.avi	92605	61.73667	Analysis	54.78400	543.96642	812.01493	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	109	14-01_Pondo_38_L_Cam6.avi	92605	61.73667	Analysis	54.78400	977.12487	938.95522	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	110	14-01_Pondo_38_L_Cam6.avi	92605	61.73667	Analysis	54.78400	1833.36831	705.22388	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_38	111	14-01_Pondo_38_L_Cam6.avi	93491	62.32733	Analysis	55.37467	1245.07870	189.40299	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+14-01_Pondo_38	112	14-01_Pondo_38_L_Cam6.avi	93491	62.32733	Analysis	55.37467	1831.35362	352.61194	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+14-01_Pondo_38	113	14-01_Pondo_38_L_Cam6.avi	95402	63.60133	Analysis	56.64867	922.72823	947.01493	0.00000	0.00000	Triakidae	Scylliogaleus	quecketti	37005	1	AD	Passing			
+14-01_Pondo_38	114	14-01_Pondo_38_L_Cam6.avi	97965	65.31000	Analysis	58.35733	926.75761	981.26866	0.00000	0.00000	Dasyatidae	Dasyatis	chrysonota	8001	1	AD	Passing			
+14-01_Pondo_39	0	14-01_Pondo_39_L_Cam4.avi	25721	17.14733	Analysis	12.66467	1257.16684	519.85075	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Feeding			
+14-01_Pondo_39	1	14-01_Pondo_39_L_Cam4.avi	25897	17.26467	Analysis	12.78200	292.13012	677.01493	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_39	2	14-01_Pondo_39_L_Cam4.avi	26117	17.41133	Analysis	12.92867	564.11333	584.32836	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	3	14-01_Pondo_39_L_Cam4.avi	26117	17.41133	Analysis	12.92867	1402.22455	481.56716	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	4	14-01_Pondo_39_L_Cam4.avi	26793	17.86200	Analysis	13.37933	971.08080	705.22388	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Feeding			
+14-01_Pondo_39	5	14-01_Pondo_39_L_Cam4.avi	30778	20.51867	Analysis	16.03600	481.51102	725.37313	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_39	6	14-01_Pondo_39_L_Cam4.avi	31964	21.30933	Analysis	16.82667	523.81952	554.10448	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	7	14-01_Pondo_39_L_Cam4.avi	32065	21.37667	Analysis	16.89400	751.47954	675.00000	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_39	8	14-01_Pondo_39_L_Cam4.avi	32065	21.37667	Analysis	16.89400	1688.31060	350.59701	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_39	9	14-01_Pondo_39_L_Cam4.avi	33232	22.15467	Analysis	17.67200	886.46380	646.79104	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Feeding			
+14-01_Pondo_39	10	14-01_Pondo_39_L_Cam4.avi	35414	23.60933	Analysis	19.12667	449.27597	570.22388	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	11	14-01_Pondo_39_L_Cam4.avi	35414	23.60933	Analysis	19.12667	1120.16789	402.98507	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	12	14-01_Pondo_39_L_Cam4.avi	35419	23.61267	Analysis	19.13000	497.62854	797.91045	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	13	14-01_Pondo_39_L_Cam4.avi	35419	23.61267	Analysis	19.13000	1025.47744	592.38806	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	14	14-01_Pondo_39_L_Cam4.avi	36431	24.28733	Analysis	19.80467	729.31794	691.11940	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	15	14-01_Pondo_39_L_Cam4.avi	36431	24.28733	Analysis	19.80467	1456.62120	505.74627	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	16	14-01_Pondo_39_L_Cam4.avi	36431	24.28733	Analysis	19.80467	1599.66422	731.41791	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	17	14-01_Pondo_39_L_Cam4.avi	38032	25.35467	Analysis	20.87200	640.67156	703.20896	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	18	14-01_Pondo_39_L_Cam4.avi	38032	25.35467	Analysis	20.87200	979.13956	636.71642	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	19	14-01_Pondo_39_L_Cam4.avi	38032	25.35467	Analysis	20.87200	1003.31584	344.55224	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	20	14-01_Pondo_39_L_Cam4.avi	40015	26.67667	Analysis	22.19400	386.82057	727.38806	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	21	14-01_Pondo_39_L_Cam4.avi	40015	26.67667	Analysis	22.19400	1039.58027	646.79104	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	22	14-01_Pondo_39_L_Cam4.avi	40015	26.67667	Analysis	22.19400	614.48059	713.28358	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	23	14-01_Pondo_39_L_Cam4.avi	40015	26.67667	Analysis	22.19400	1384.09234	828.13433	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+14-01_Pondo_39	24	14-01_Pondo_39_L_Cam4.avi	44674	29.78267	Analysis	25.30000	1285.37251	675.00000	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	25	14-01_Pondo_39_L_Cam4.avi	44674	29.78267	Analysis	25.30000	1494.90031	707.23881	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	26	14-01_Pondo_39_L_Cam4.avi	44674	29.78267	Analysis	25.30000	1783.00105	779.77612	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	27	14-01_Pondo_39_L_Cam4.avi	44674	29.78267	Analysis	25.30000	1710.47219	564.17910	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	28	14-01_Pondo_39_L_Cam4.avi	44674	29.78267	Analysis	25.30000	441.21721	896.64179	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_39	29	14-01_Pondo_39_L_Cam4.avi	44674	29.78267	Analysis	25.30000	1752.78069	405.00000	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_39	30	14-01_Pondo_39_L_Cam4.avi	47780	31.85333	Analysis	27.37067	122.89612	580.29851	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	31	14-01_Pondo_39_L_Cam4.avi	47780	31.85333	Analysis	27.37067	695.06821	594.40299	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	32	14-01_Pondo_39_L_Cam4.avi	47780	31.85333	Analysis	27.37067	987.19832	650.82090	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	33	14-01_Pondo_39_L_Cam4.avi	47780	31.85333	Analysis	27.37067	1432.44491	509.77612	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	34	14-01_Pondo_39_L_Cam4.avi	47780	31.85333	Analysis	27.37067	1188.66737	151.11940	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	35	14-01_Pondo_39_L_Cam4.avi	49306	32.87067	Analysis	28.38800	912.65477	681.04478	0.00000	0.00000	Dasyatidae	Dasyatis	chrysonota	8001	1	AD	Passing			
+14-01_Pondo_39	36	14-01_Pondo_39_L_Cam4.avi	49306	32.87067	Analysis	28.38800	1269.25498	679.02985	0.00000	0.00000	Dasyatidae	Dasyatis	chrysonota	8001	1	AD	Passing			
+14-01_Pondo_39	37	14-01_Pondo_39_L_Cam4.avi	49429	32.95267	Analysis	28.47000	821.99370	695.14925	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	38	14-01_Pondo_39_L_Cam4.avi	49429	32.95267	Analysis	28.47000	969.06611	493.65672	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	39	14-01_Pondo_39_L_Cam4.avi	49429	32.95267	Analysis	28.47000	1440.50367	447.31343	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	40	14-01_Pondo_39_L_Cam4.avi	49429	32.95267	Analysis	28.47000	1438.48898	578.28358	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	41	14-01_Pondo_39_L_Cam4.avi	49429	32.95267	Analysis	28.47000	1855.52991	481.56716	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	42	14-01_Pondo_39_L_Cam4.avi	49429	32.95267	Analysis	28.47000	1678.23715	564.17910	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	43	14-01_Pondo_39_L_Cam4.avi	54582	36.38800	Analysis	31.90533	834.08185	529.92537	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	44	14-01_Pondo_39_L_Cam4.avi	54582	36.38800	Analysis	31.90533	1349.84260	977.23881	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	45	14-01_Pondo_39_L_Cam4.avi	54582	36.38800	Analysis	31.90533	1795.08919	731.41791	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	46	14-01_Pondo_39_L_Cam4.avi	54582	36.38800	Analysis	31.90533	1744.72193	604.47761	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	47	14-01_Pondo_39_L_Cam4.avi	54582	36.38800	Analysis	31.90533	1676.22246	372.76119	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	48	14-01_Pondo_39_L_Cam4.avi	54582	36.38800	Analysis	31.90533	1446.54774	209.55224	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+14-01_Pondo_39	49	14-01_Pondo_39_L_Cam4.avi	64463	42.97533	Analysis	38.49267	1077.85939	529.92537	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_39	50	14-01_Pondo_39_L_Cam4.avi	64463	42.97533	Analysis	38.49267	1315.59286	509.77612	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+14-01_Pondo_39	51	14-01_Pondo_39_L_Cam4.avi	72956	48.63733	Analysis	44.15467	296.15950	267.98507	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+14-01_Pondo_39	52	14-01_Pondo_39_L_Cam4.avi	82581	55.05400	Analysis	50.57133	20.14690	316.34328	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+14-01_Pondo_39	53	14-01_Pondo_39_L_Cam4.avi	82581	55.05400	Analysis	50.57133	473.45226	28.20896	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+14-01_Pondo_39	54	14-01_Pondo_39_L_Cam4.avi	86661	57.77400	Analysis	53.29133	775.65582	898.65672	0.00000	0.00000	Serranidae	Epinephelus	andersoni	33002	1	AD	Passing			
+14-01_Pondo_39	55	14-01_Pondo_39_L_Cam4.avi	94773	63.18200	Analysis	58.69933	1382.07765	894.62687	0.00000	0.00000	Serranidae	Epinephelus	andersoni	33002	1	AD	Passing			
+15-05_Pondo_002	0	15-05_Pondo_2_L.avi	9065	6.04333	Analysis time	0.00000	958.65358	549.42643	0.00000	0.00000								Time on seafloor		
+15-05_Pondo_002	1	15-05_Pondo_2_L.avi	44961	29.97400	Analysis time	23.93067	1225.24544	622.14464	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_002	2	15-05_Pondo_2_L.avi	50559	33.70600	Analysis time	27.66267	573.57644	856.45885	0.00000	0.00000					1	AD	Passing	Sole species		
+15-05_Pondo_002	3	15-05_Pondo_2_L.avi	78476	52.31733	Analysis time	46.27400	417.39130	632.91771	0.00000	0.00000	Ostraciidae	Tetrosomus	gibbosus	91006	1	AD	Passing			
+15-05_Pondo_002	4	15-05_Pondo_2_L.avi	96434	64.28933	Analysis time	58.24600	929.03226	425.53616	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	F	Passing			
+15-05_Pondo_002	5	15-05_Pondo_2_L.avi	96434	64.28933	Analysis time	58.24600	850.93969	64.63840	0.00000	0.00000	Scombridae			31000	1	AD	Passing	Spp		
+15-05_Pondo_002	6	15-05_Pondo_2_L.avi	97043	64.69533	Analysis time	58.65200	1095.98878	239.70075	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	F	Passing			
+15-05_Pondo_002	7	15-05_Pondo_2_L.avi	97372	64.91467	Analysis time	58.87133	1028.66760	635.61097	0.00000	0.00000	Scombridae			31000	1	AD	Passing			
+15-05_Pondo_002	8	15-05_Pondo_2_L.avi	97372	64.91467	Analysis time	58.87133	1494.53015	385.13716	0.00000	0.00000	Scombridae			31000	1	AD	Passing			
+15-05_Pondo_002	9	15-05_Pondo_2_L.avi	98109	65.40600	Analysis time	59.36267	1365.27349	269.32668	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	F	Passing			
+15-05_Pondo_002	10	15-05_Pondo_2_L.avi	98621	65.74733	Analysis time	59.70400	859.01823	307.03242	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	AD	Passing			
+15-05_Pondo_006	0	15-05_Pondo_6_L.avi	23633	15.75533	Analysis time	0.00000	1044.82468	724.48878	0.00000	0.00000								Time on sea floor		
+15-05_Pondo_006	1	15-05_Pondo_6_L.avi	41306	27.53733	Analysis time	11.78200	1828.44320	732.56858	0.00000	0.00000	Tetraodontidae	Amblyrhynchotes	honckenii	133004	1	AD	Passing			
+15-05_Pondo_006	2	15-05_Pondo_6_L.avi	54088	36.05867	Analysis time	20.30333	1236.01683	929.17706	0.00000	0.00000	Rhinobatidae	Rhinobatos	annulatus	29001	1	AD	Passing			
+15-05_Pondo_006	3	15-05_Pondo_6_L.avi	59894	39.92933	Analysis time	24.17400	600.50491	821.44638	0.00000	0.00000	Tetraodontidae	Amblyrhynchotes	honckenii	133004	1	AD	Passing			
+15-05_Pondo_006	4	15-05_Pondo_6_L.avi	66398	44.26533	Analysis time	28.51000	587.04067	939.95012	0.00000	0.00000	Tetraodontidae	Amblyrhynchotes	honckenii	133004	1	AD	Passing			
+15-05_Pondo_006	5	15-05_Pondo_6_L.avi	75625	50.41667	Analysis time	34.66133	877.86816	476.70823	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	AD	Passing			
+15-05_Pondo_006	6	15-05_Pondo_6_L.avi	75627	50.41800	Analysis time	34.66267	177.72791	83.49127	0.00000	0.00000	Scombridae		spp		1	AD	Passing			
+15-05_Pondo_006	7	15-05_Pondo_6_L.avi	75698	50.46533	Analysis time	34.71000	624.74053	277.40648	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	AD	Passing			
+15-05_Pondo_006	8	15-05_Pondo_6_L.avi	76582	51.05467	Analysis time	35.29933	929.03226	88.87781	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	AD	Passing			
+15-05_Pondo_006	9	15-05_Pondo_6_L.avi	79191	52.79400	Analysis time	37.03867	974.81066	398.60349	0.00000	0.00000					500	AD	Passing	Unknow school of juvs		
+15-05_Pondo_006	10	15-05_Pondo_6_L.avi	99137	66.09133	Analysis time	50.33600	818.62553	603.29177	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_006	11	15-05_Pondo_6_L.avi	103830	69.22000	Analysis time	53.46467	977.50351	643.69077	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_009	0	15-05_Pondo_9_L.avi	13562	9.04133	Analysis time	0.00000	1044.82468	662.54364	0.00000	0.00000					0			Time on seafloor		
+15-05_Pondo_009	1	15-05_Pondo_9_L.avi	15724	10.48267	Analysis time	1.44133	395.84853	344.73815	0.00000	0.00000	Carcharhinidae	Carcharhinus	brachyurus	5001	1	AD	Passing	Potentially = some big shark		
+15-05_Pondo_009	2	15-05_Pondo_9_L.avi	27789	18.52600	Analysis time	9.48467	934.41795	767.58105	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_009	3	15-05_Pondo_9_L.avi	27789	18.52600	Analysis time	9.48467	1761.12202	678.70324	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_009	4	15-05_Pondo_9_L.avi	29520	19.68000	Analysis time	10.63867	1867.48948	607.57855	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_009	5	15-05_Pondo_9_L.avi	29520	19.68000	Analysis time	10.63867	1805.55400	697.80299	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_009	6	15-05_Pondo_9_L.avi	32828	21.88533	Analysis time	12.84400	352.76297	511.72070	0.00000	0.00000	Octopodidae			42000	1	AD	Passing	Cuttlefish species		
+15-05_Pondo_009	7	15-05_Pondo_9_L.avi	42498	28.33200	Analysis time	19.29067	1052.90323	474.01496	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_009	8	15-05_Pondo_9_L.avi	95704	63.80267	Analysis time	54.76133	1166.00281	307.03242	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_009	9	15-05_Pondo_9_L.avi	95704	63.80267	Analysis time	54.76133	1437.98036	705.63591	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_009	10	15-05_Pondo_9_L.avi	95704	63.80267	Analysis time	54.76133	1658.79383	422.84289	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_009	11	15-05_Pondo_9_L.avi	95737	63.82467	Analysis time	54.78333	1847.29313	584.43890	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_009	12	15-05_Pondo_9_L.avi	95737	63.82467	Analysis time	54.78333	1244.09537	694.86284	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_009	13	15-05_Pondo_9_L.avi	95737	63.82467	Analysis time	54.78333	1604.93689	605.98504	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_009	14	15-05_Pondo_9_L.avi	95737	63.82467	Analysis time	54.78333	1446.05891	218.15461	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_009	15	15-05_Pondo_9_L.avi	105764	70.50933	Analysis time	61.46800	552.03366	783.74065	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_009	16	15-05_Pondo_9_L.avi	105764	70.50933	Analysis time	61.46800	670.51893	614.06484	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_009	17	15-05_Pondo_9_L.avi	122385	81.59000	Analysis time	72.54867	1219.85975	307.03242	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Passing			
+15-05_Pondo_11	0	15-05_Pondo_11_L.avi	12304	8.20267	Analysis time	0.00000	1174.08135	770.27431	0.00000	0.00000								Time on sea floor		
+15-05_Pondo_11	1	15-05_Pondo_11_L.avi	12419	8.27933	Analysis time	0.07667	1260.25245	436.30923	0.00000	0.00000	Carangidae	Seriola	lalandi	4008	1	AD	Passing			
+15-05_Pondo_11	2	15-05_Pondo_11_L.avi	14844	9.89600	Analysis time	1.69333	158.87798	511.72070	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	3	15-05_Pondo_11_L.avi	14844	9.89600	Analysis time	1.69333	1106.76017	444.38903	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	4	15-05_Pondo_11_L.avi	14844	9.89600	Analysis time	1.69333	1475.68022	358.20449	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	5	15-05_Pondo_11_L.avi	15552	10.36800	Analysis time	2.16533	710.91164	587.13217	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	6	15-05_Pondo_11_L.avi	15552	10.36800	Analysis time	2.16533	705.52595	387.83042	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	7	15-05_Pondo_11_L.avi	16321	10.88067	Analysis time	2.67800	643.59046	498.25436	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	8	15-05_Pondo_11_L.avi	16321	10.88067	Analysis time	2.67800	1219.85975	428.22943	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	9	15-05_Pondo_11_L.avi	16321	10.88067	Analysis time	2.67800	1618.40112	500.94763	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	10	15-05_Pondo_11_L.avi	16764	11.17600	Analysis time	2.97333	780.92567	455.16209	0.00000	0.00000	Scombridae	Scomberoides	sp		1	AD	Passing			
+15-05_Pondo_11	11	15-05_Pondo_11_L.avi	16764	11.17600	Analysis time	2.97333	1028.66760	549.42643	0.00000	0.00000	Scombridae	Scomberoides	sp		1	AD	Passing			
+15-05_Pondo_11	12	15-05_Pondo_11_L.avi	16764	11.17600	Analysis time	2.97333	1031.36045	371.67082	0.00000	0.00000	Scombridae	Scomberoides	sp		1	AD	Passing			
+15-05_Pondo_11	13	15-05_Pondo_11_L.avi	16764	11.17600	Analysis time	2.97333	1171.38850	449.77556	0.00000	0.00000	Scombridae	Scomberoides	sp		1	AD	Passing			
+15-05_Pondo_11	14	15-05_Pondo_11_L.avi	16764	11.17600	Analysis time	2.97333	1513.38008	495.56110	0.00000	0.00000	Scombridae	Scomberoides	sp		1	AD	Passing			
+15-05_Pondo_11	15	15-05_Pondo_11_L.avi	16764	11.17600	Analysis time	2.97333	1650.71529	406.68329	0.00000	0.00000	Scombridae	Scomberoides	sp		1	AD	Passing			
+15-05_Pondo_11	16	15-05_Pondo_11_L.avi	16764	11.17600	Analysis time	2.97333	1731.50070	339.35162	0.00000	0.00000	Scombridae	Scomberoides	sp		1	AD	Passing			
+15-05_Pondo_11	17	15-05_Pondo_11_L.avi	17117	11.41133	Analysis time	3.20867	339.29874	614.06484	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	18	15-05_Pondo_11_L.avi	17117	11.41133	Analysis time	3.20867	341.99158	455.16209	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	19	15-05_Pondo_11_L.avi	17117	11.41133	Analysis time	3.20867	910.18233	630.22444	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	20	15-05_Pondo_11_L.avi	17490	11.66000	Analysis time	3.45733	1623.78682	452.46883	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	21	15-05_Pondo_11_L.avi	17490	11.66000	Analysis time	3.45733	1532.23001	177.75561	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	22	15-05_Pondo_11_L.avi	17490	11.66000	Analysis time	3.45733	702.83310	568.27930	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	23	15-05_Pondo_11_L.avi	17490	11.66000	Analysis time	3.45733	183.11360	570.97257	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	24	15-05_Pondo_11_L.avi	17518	11.67867	Analysis time	3.47600	102.32819	500.94763	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	25	15-05_Pondo_11_L.avi	17518	11.67867	Analysis time	3.47600	333.91304	589.82544	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	26	15-05_Pondo_11_L.avi	17518	11.67867	Analysis time	3.47600	888.63955	530.57357	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	27	15-05_Pondo_11_L.avi	17518	11.67867	Analysis time	3.47600	1136.38149	220.84788	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	28	15-05_Pondo_11_L.avi	17518	11.67867	Analysis time	3.47600	1718.03647	530.57357	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	29	15-05_Pondo_11_L.avi	19223	12.81533	Analysis time	4.61267	1106.76017	527.88030	0.00000	0.00000	Carangidae	Seriola	lalandi	4008	1	AD	Passing			
+15-05_Pondo_11	30	15-05_Pondo_11_L.avi	20375	13.58333	Analysis time	5.38067	748.61150	651.77057	0.00000	0.00000	Sparidae	Chrysoblephus	lophus	34010	1	AD	Passing			
+15-05_Pondo_11	31	15-05_Pondo_11_L.avi	20618	13.74533	Analysis time	5.54267	1082.52454	471.32170	0.00000	0.00000	Sparidae	Chrysoblephus	lophus	34010	1	AD	Passing			
+15-05_Pondo_11	32	15-05_Pondo_11_L.avi	22660	15.10667	Analysis time	6.90400	29.62132	767.58105	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	33	15-05_Pondo_11_L.avi	22660	15.10667	Analysis time	6.90400	18.84993	579.05237	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	34	15-05_Pondo_11_L.avi	22660	15.10667	Analysis time	6.90400	121.17812	406.68329	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	35	15-05_Pondo_11_L.avi	22660	15.10667	Analysis time	6.90400	1012.51052	484.78803	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	36	15-05_Pondo_11_L.avi	22660	15.10667	Analysis time	6.90400	762.07574	113.11721	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	37	15-05_Pondo_11_L.avi	22660	15.10667	Analysis time	6.90400	1300.64516	201.99501	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	38	15-05_Pondo_11_L.avi	24175	16.11667	Analysis time	7.91400	670.51893	463.24190	0.00000	0.00000	Carangidae	Seriola	lalandi	4008	1	AD	Passing			
+15-05_Pondo_11	39	15-05_Pondo_11_L.avi	26050	17.36667	Analysis time	9.16400	121.17812	605.98504	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	40	15-05_Pondo_11_L.avi	26050	17.36667	Analysis time	9.16400	447.01262	624.83791	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	41	15-05_Pondo_11_L.avi	26050	17.36667	Analysis time	9.16400	622.04769	514.41397	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	42	15-05_Pondo_11_L.avi	26050	17.36667	Analysis time	9.16400	1462.21599	363.59102	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	43	15-05_Pondo_11_L.avi	28064	18.70933	Analysis time	10.50667	775.53997	562.89277	0.00000	0.00000	Sparidae	Chrysoblephus	lophus	34010	1	AD	Passing			
+15-05_Pondo_11	44	15-05_Pondo_11_L.avi	37279	24.85267	Analysis time	16.65000	67.32118	449.77556	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	45	15-05_Pondo_11_L.avi	37279	24.85267	Analysis time	16.65000	304.29173	385.13716	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	46	15-05_Pondo_11_L.avi	37279	24.85267	Analysis time	16.65000	683.98317	444.38903	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	47	15-05_Pondo_11_L.avi	37279	24.85267	Analysis time	16.65000	926.33941	422.84289	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	48	15-05_Pondo_11_L.avi	37279	24.85267	Analysis time	16.65000	1402.97335	298.95262	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	49	15-05_Pondo_11_L.avi	37279	24.85267	Analysis time	16.65000	1674.95091	102.34414	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_11	50	15-05_Pondo_11_L.avi	48353	32.23533	Analysis time	24.03267	471.24825	358.20449	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	51	15-05_Pondo_11_L.avi	48353	32.23533	Analysis time	24.03267	907.48948	595.21197	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	52	15-05_Pondo_11_L.avi	48353	32.23533	Analysis time	24.03267	1020.58906	581.74564	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	53	15-05_Pondo_11_L.avi	48353	32.23533	Analysis time	24.03267	1295.25947	436.30923	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_11	54	15-05_Pondo_11_L.avi	67267	44.84467	Analysis time	36.64200	883.25386	247.78055	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_11	55	15-05_Pondo_11_L.avi	70235	46.82333	Analysis time	38.62067	667.82609	565.58603	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_11	56	15-05_Pondo_11_L.avi	70235	46.82333	Analysis time	38.62067	891.33240	482.09476	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_11	57	15-05_Pondo_11_L.avi	78773	52.51533	Analysis time	44.31267	1031.36045	382.44389	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_11	58	15-05_Pondo_11_L.avi	106279	70.85267	Extra time	2.34867	1007.12482	218.15461	0.00000	0.00000	Sparidae	Petrus	rupestris	34022	1	AD	Passing			
+15-05_Pondo_11	59	15-05_Pondo_11_L.avi	108543	72.36200	Extra time	3.85800	840.16830	468.62843	0.00000	0.00000	Sparidae	Petrus	rupestris	34022	1	AD	Passing			
+15-05_Pondo_013	0	15-05_Pondo_13_L.avi	14781	9.85400	Analysis time	0.00000	980.19635	581.74564	0.00000	0.00000								Time on seafloor		
+15-05_Pondo_013	1	15-05_Pondo_13_L.avi	19038	12.69200	Analysis time	2.83800	955.96073	463.24190	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	2	15-05_Pondo_13_L.avi	22285	14.85667	Analysis time	5.00267	1575.31557	562.89277	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	3	15-05_Pondo_13_L.avi	22285	14.85667	Analysis time	5.00267	1621.09397	395.91022	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	4	15-05_Pondo_13_L.avi	22285	14.85667	Analysis time	5.00267	786.31136	581.74564	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	5	15-05_Pondo_13_L.avi	22765	15.17667	Analysis time	5.32267	678.59748	595.21197	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	6	15-05_Pondo_13_L.avi	22765	15.17667	Analysis time	5.32267	985.58205	595.21197	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	7	15-05_Pondo_13_L.avi	22765	15.17667	Analysis time	5.32267	1351.80926	568.27930	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	8	15-05_Pondo_13_L.avi	22765	15.17667	Analysis time	5.32267	1825.75035	471.32170	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	9	15-05_Pondo_13_L.avi	25105	16.73667	Analysis time	6.88267	1742.27209	452.46883	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	10	15-05_Pondo_13_L.avi	27836	18.55733	Analysis time	8.70333	1499.91585	724.48878	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	11	15-05_Pondo_13_L.avi	27836	18.55733	Analysis time	8.70333	1688.41515	654.46384	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	12	15-05_Pondo_13_L.avi	27836	18.55733	Analysis time	8.70333	982.88920	627.53117	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	13	15-05_Pondo_13_L.avi	27836	18.55733	Analysis time	8.70333	867.09677	646.38404	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	14	15-05_Pondo_13_L.avi	27836	18.55733	Analysis time	8.70333	1152.53857	519.80050	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	15	15-05_Pondo_13_L.avi	29133	19.42200	Analysis time	9.56800	482.01964	352.81796	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	16	15-05_Pondo_13_L.avi	29133	19.42200	Analysis time	9.56800	1265.63815	632.91771	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	17	15-05_Pondo_13_L.avi	29133	19.42200	Analysis time	9.56800	1564.54418	573.66584	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	18	15-05_Pondo_13_L.avi	29229	19.48600	Analysis time	9.63200	1432.59467	627.53117	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	19	15-05_Pondo_13_L.avi	29229	19.48600	Analysis time	9.63200	1316.80224	509.02743	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	20	15-05_Pondo_13_L.avi	29229	19.48600	Analysis time	9.63200	1090.60309	409.37656	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	21	15-05_Pondo_13_L.avi	29229	19.48600	Analysis time	9.63200	1532.23001	484.78803	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	22	15-05_Pondo_13_L.avi	29269	19.51267	Analysis time	9.65867	611.27630	856.45885	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	23	15-05_Pondo_13_L.avi	29269	19.51267	Analysis time	9.65867	783.61851	676.00998	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	24	15-05_Pondo_13_L.avi	29269	19.51267	Analysis time	9.65867	840.16830	506.33416	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	25	15-05_Pondo_13_L.avi	29269	19.51267	Analysis time	9.65867	1192.93128	562.89277	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	26	15-05_Pondo_13_L.avi	29269	19.51267	Analysis time	9.65867	1820.36466	393.21696	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	27	15-05_Pondo_13_L.avi	29465	19.64333	Analysis time	9.78933	1502.60870	651.77057	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	28	15-05_Pondo_13_L.avi	29465	19.64333	Analysis time	9.78933	1322.18794	676.00998	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	29	15-05_Pondo_13_L.avi	29465	19.64333	Analysis time	9.78933	1300.64516	565.58603	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	30	15-05_Pondo_13_L.avi	29465	19.64333	Analysis time	9.78933	1101.37447	638.30424	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	31	15-05_Pondo_13_L.avi	29465	19.64333	Analysis time	9.78933	834.78261	484.78803	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	32	15-05_Pondo_13_L.avi	29465	19.64333	Analysis time	9.78933	180.42076	476.70823	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	33	15-05_Pondo_13_L.avi	29689	19.79267	Analysis time	9.93867	239.66339	589.82544	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	34	15-05_Pondo_13_L.avi	29689	19.79267	Analysis time	9.93867	762.07574	522.49377	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	35	15-05_Pondo_13_L.avi	29689	19.79267	Analysis time	9.93867	1171.38850	503.64090	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	36	15-05_Pondo_13_L.avi	29689	19.79267	Analysis time	9.93867	1365.27349	503.64090	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	37	15-05_Pondo_13_L.avi	29689	19.79267	Analysis time	9.93867	1831.13604	535.96010	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	38	15-05_Pondo_13_L.avi	29689	19.79267	Analysis time	9.93867	1656.10098	215.46135	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	39	15-05_Pondo_13_L.avi	29968	19.97867	Analysis time	10.12467	1055.59607	75.41147	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_013	40	15-05_Pondo_13_L.avi	31227	20.81800	Analysis time	10.96400	131.94951	581.74564	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	41	15-05_Pondo_13_L.avi	31227	20.81800	Analysis time	10.96400	228.89201	495.56110	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	42	15-05_Pondo_13_L.avi	31227	20.81800	Analysis time	10.96400	939.80365	296.25935	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	43	15-05_Pondo_13_L.avi	31227	20.81800	Analysis time	10.96400	929.03226	533.26683	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	44	15-05_Pondo_13_L.avi	31227	20.81800	Analysis time	10.96400	1214.47405	519.80050	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	45	15-05_Pondo_13_L.avi	31227	20.81800	Analysis time	10.96400	1408.35905	525.18703	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	46	15-05_Pondo_13_L.avi	31227	20.81800	Analysis time	10.96400	1594.16550	498.25436	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	47	15-05_Pondo_13_L.avi	31279	20.85267	Analysis time	10.99867	59.24264	530.57357	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	48	15-05_Pondo_13_L.avi	31279	20.85267	Analysis time	10.99867	455.09116	635.61097	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	49	15-05_Pondo_13_L.avi	31279	20.85267	Analysis time	10.99867	635.51192	646.38404	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	50	15-05_Pondo_13_L.avi	31279	20.85267	Analysis time	10.99867	807.85414	347.43142	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	51	15-05_Pondo_13_L.avi	31279	20.85267	Analysis time	10.99867	1292.56662	484.78803	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	52	15-05_Pondo_13_L.avi	31279	20.85267	Analysis time	10.99867	1459.52314	638.30424	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	53	15-05_Pondo_13_L.avi	31279	20.85267	Analysis time	10.99867	1591.47265	525.18703	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	54	15-05_Pondo_13_L.avi	31279	20.85267	Analysis time	10.99867	1841.90743	398.60349	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_013	55	15-05_Pondo_13_L.avi	33795	22.53000	Analysis time	12.67600	323.14165	638.30424	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	J	Passing			
+15-05_Pondo_013	56	15-05_Pondo_13_L.avi	35339	23.55933	Analysis time	13.70533	293.52034	783.74065	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	57	15-05_Pondo_13_L.avi	35339	23.55933	Analysis time	13.70533	123.87097	468.62843	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	58	15-05_Pondo_13_L.avi	35339	23.55933	Analysis time	13.70533	387.76999	525.18703	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	59	15-05_Pondo_13_L.avi	35339	23.55933	Analysis time	13.70533	953.26788	83.49127	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	60	15-05_Pondo_13_L.avi	35339	23.55933	Analysis time	13.70533	883.25386	689.47631	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	61	15-05_Pondo_13_L.avi	35339	23.55933	Analysis time	13.70533	1144.46003	640.99751	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	62	15-05_Pondo_13_L.avi	35339	23.55933	Analysis time	13.70533	1448.75175	635.61097	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	63	15-05_Pondo_13_L.avi	35339	23.55933	Analysis time	13.70533	1545.69425	414.76309	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	64	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	175.03506	708.32918	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	65	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	554.72651	918.40399	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	66	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	363.53436	762.19451	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	67	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	393.15568	320.49875	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	68	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	972.11781	552.11970	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	69	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	955.96073	223.54115	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	70	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	1219.85975	312.41895	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	71	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	1249.48107	608.67830	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	72	15-05_Pondo_13_L.avi	35601	23.73400	Analysis time	13.88000	1866.14306	659.85037	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	73	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	223.50631	851.07232	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	74	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	201.96353	735.26185	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	75	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	568.19074	751.42145	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	76	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	535.87658	290.87282	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	77	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	659.74755	121.19701	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	78	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	1607.62973	2.69327	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	79	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	1613.01543	509.02743	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	80	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	1446.05891	751.42145	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	81	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	1895.76438	713.71571	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	82	15-05_Pondo_13_L.avi	40304	26.86933	Analysis time	17.01533	1680.33661	689.47631	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	83	15-05_Pondo_13_L.avi	46274	30.84933	Analysis time	20.99533	1052.90323	253.16708	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	84	15-05_Pondo_13_L.avi	62926	41.95067	Analysis time	32.09667	1114.83871	315.11222	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_013	85	15-05_Pondo_13_L.avi	62926	41.95067	Analysis time	32.09667	737.84011	169.67581	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_013	86	15-05_Pondo_13_L.avi	64602	43.06800	Analysis time	33.21400	1034.05330	183.14214	0.00000	0.00000	Sparidae	Cymatoceps	nasutus	34012	1	AD	Passing			
+15-05_Pondo_013	87	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	123.87097	662.54364	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	88	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	53.85694	261.24688	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	89	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	543.95512	379.75062	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	90	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	805.16129	605.98504	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	91	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	1074.44600	565.58603	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	92	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	1322.18794	719.10224	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	93	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	1583.39411	767.58105	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	94	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	1855.37167	794.51372	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	95	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	1580.70126	465.93516	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	96	15-05_Pondo_13_L.avi	69998	46.66533	Analysis time	36.81133	1201.00982	455.16209	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	97	15-05_Pondo_13_L.avi	77608	51.73867	Analysis time	41.88467	1047.51753	196.60848	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	F	Passing			
+15-05_Pondo_013	98	15-05_Pondo_13_L.avi	80692	53.79467	Analysis time	43.94067	1723.42216	191.22195	0.00000	0.00000	Carcharhinidae	Galeocerdo	cuvier	5005	1	AD	Passing			
+15-05_Pondo_013	99	15-05_Pondo_13_L.avi	86623	57.74867	Analysis time	47.89467	1066.36746	498.25436	0.00000	0.00000					1	AD	Passing	Cont		
+15-05_Pondo_013	100	15-05_Pondo_13_L.avi	99584	66.38933	Analysis time	56.53533	1373.35203	325.88529	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_013	101	15-05_Pondo_13_L.avi	105430	70.28667	Extra time	0.30000	1338.34502	856.45885	0.00000	0.00000	Rhinobatidae	Rhinobatos	annulatus	29001	1	AD	Passing			
+15-05_Pondo_15	0	15-05_Pondo_15_L.avi	25071	16.71400	Analysis time	0.00000	1087.91024	778.35411	0.00000	0.00000					1	AD	Passing	Time on sea floor		
+15-05_Pondo_15	1	15-05_Pondo_15_L.avi	27343	18.22867	Analysis time	1.51467	576.26928	635.61097	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	J	Passing			
+15-05_Pondo_15	2	15-05_Pondo_15_L.avi	27343	18.22867	Analysis time	1.51467	630.12623	595.21197	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	3	15-05_Pondo_15_L.avi	27343	18.22867	Analysis time	1.51467	896.71809	549.42643	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	4	15-05_Pondo_15_L.avi	27343	18.22867	Analysis time	1.51467	1085.21739	544.03990	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	5	15-05_Pondo_15_L.avi	27343	18.22867	Analysis time	1.51467	1319.49509	447.08229	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	6	15-05_Pondo_15_L.avi	27343	18.22867	Analysis time	1.51467	1464.90884	517.10723	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	7	15-05_Pondo_15_L.avi	27703	18.46867	Analysis time	1.75467	45.77840	926.48379	0.00000	0.00000	Octopodidae			42000	1	AD	Passing	Cuttlefish		
+15-05_Pondo_15	8	15-05_Pondo_15_L.avi	27703	18.46867	Analysis time	1.75467	228.89201	867.23192	0.00000	0.00000	Octopodidae			42000	1	AD	Passing			
+15-05_Pondo_15	9	15-05_Pondo_15_L.avi	28479	18.98600	Analysis time	2.27200	1044.82468	1007.28180	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	10	15-05_Pondo_15_L.avi	28479	18.98600	Analysis time	2.27200	1192.93128	953.41646	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	11	15-05_Pondo_15_L.avi	28479	18.98600	Analysis time	2.27200	1526.84432	729.87531	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	12	15-05_Pondo_15_L.avi	28479	18.98600	Analysis time	2.27200	1351.80926	541.34663	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	13	15-05_Pondo_15_L.avi	28479	18.98600	Analysis time	2.27200	1209.08836	632.91771	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	14	15-05_Pondo_15_L.avi	28479	18.98600	Analysis time	2.27200	845.55400	673.31671	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	15	15-05_Pondo_15_L.avi	28479	18.98600	Analysis time	2.27200	1486.45161	869.92519	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	16	15-05_Pondo_15_L.avi	28479	18.98600	Analysis time	2.27200	554.72651	684.08978	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	17	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	1871.52875	781.04738	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	18	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	1884.99299	616.75810	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	19	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	1572.62272	662.54364	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	20	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	1319.49509	603.29177	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	21	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	1376.04488	845.68579	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	22	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	1168.69565	953.41646	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	23	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	1063.67461	616.75810	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	24	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	1028.66760	972.26933	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	25	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	918.26087	1053.06733	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	26	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	603.19776	735.26185	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	27	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	584.34783	851.07232	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	28	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	753.99719	746.03491	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	29	15-05_Pondo_15_L.avi	29869	19.91267	Analysis time	3.19867	339.29874	775.66085	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	30	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	26.92847	1055.76060	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	31	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	1491.83731	659.85037	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	32	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	1513.38008	697.55611	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	33	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	1034.05330	894.16459	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	34	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	867.09677	980.34913	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	35	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	745.91865	918.40399	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	36	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	759.38289	872.61845	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	37	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	826.70407	665.23691	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	38	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	756.69004	694.86284	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	39	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	665.13324	735.26185	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	40	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	317.75596	824.13965	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	41	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	309.67742	939.95012	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	42	15-05_Pondo_15_L.avi	30023	20.01533	Analysis time	3.30133	562.80505	713.71571	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	43	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	1868.83590	689.47631	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	44	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	1591.47265	692.16958	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	45	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	1494.53015	869.92519	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	46	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	1174.08135	845.68579	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	47	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	996.35344	1034.21446	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	48	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	929.03226	1020.74813	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	49	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	1034.05330	837.60599	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	50	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	832.08976	878.00499	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	51	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	762.07574	794.51372	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	52	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	778.23282	673.31671	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	53	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	947.88219	783.74065	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	54	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	1502.60870	705.63591	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	55	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	1260.25245	789.12718	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	56	15-05_Pondo_15_L.avi	30332	20.22133	Analysis time	3.50733	651.66900	807.98005	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	1	AD	Passing			
+15-05_Pondo_15	57	15-05_Pondo_15_L.avi	46285	30.85667	Analysis time	14.14267	980.19635	557.50623	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_15	58	15-05_Pondo_15_L.avi	62842	41.89467	Analysis time	25.18067	985.58205	861.84539	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	25	AD	Passing			
+15-05_Pondo_15	59	15-05_Pondo_15_L.avi	80693	53.79533	Analysis time	37.08133	1039.43899	552.11970	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	35	AD	Passing			
+15-05_Pondo_15	60	15-05_Pondo_15_L.avi	82182	54.78800	Analysis time	38.07400	166.95652	789.12718	0.00000	0.00000	Octopodidae			42000	1	AD	Passing			
+15-05_Pondo_15	61	15-05_Pondo_15_L.avi	82182	54.78800	Analysis time	38.07400	1648.02244	589.82544	0.00000	0.00000	Octopodidae			42000	1	AD	Passing			
+15-05_Pondo_15	62	15-05_Pondo_15_L.avi	86247	57.49800	Analysis time	40.78400	894.02525	681.39651	0.00000	0.00000	Sparidae	Pagellus	bellottii natalensis	34021	50	AD	Passing			
+15-05_Pondo_15	63	15-05_Pondo_15_L.avi	113132	75.42133	Analysis time	58.70733	662.44039	490.17456	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_15	64	15-05_Pondo_15_L.avi	122161	81.44067	Analysis time	64.72667	457.78401	250.47382	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	0	15-05_Pondo_017_L.avi	21195	14.13000	Analysis time	0.00000	988.27489	592.51870	0.00000	0.00000								Time on seafloor		
+15-05_Pondo_017	1	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	45.77840	514.41397	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	2	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	113.09958	616.75810	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	3	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	277.36325	646.38404	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	4	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	371.61290	657.15711	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	5	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	503.56241	638.30424	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	6	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	595.11921	562.89277	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	7	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	762.07574	657.15711	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	8	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	869.78962	546.73317	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	9	15-05_Pondo_017_L.avi	21838	14.55867	Analysis time	0.42867	920.95372	684.08978	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	10	15-05_Pondo_017_L.avi	22178	14.78533	Analysis time	0.65533	1526.84432	729.87531	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	11	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	32.31417	474.01496	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	12	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	166.95652	587.13217	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	13	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	710.91164	630.22444	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	14	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	689.36886	573.66584	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	15	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	794.38990	608.67830	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	16	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	729.76157	406.68329	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	17	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	996.35344	689.47631	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	18	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	1249.48107	603.29177	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	19	15-05_Pondo_017_L.avi	22614	15.07600	Analysis time	0.94600	1443.36606	700.24938	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	20	15-05_Pondo_017_L.avi	23014	15.34267	Analysis time	1.21267	616.66199	465.93516	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	21	15-05_Pondo_017_L.avi	23209	15.47267	Analysis time	1.34267	360.84151	665.23691	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	22	15-05_Pondo_017_L.avi	23209	15.47267	Analysis time	1.34267	1405.66620	692.16958	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	23	15-05_Pondo_017_L.avi	23480	15.65333	Analysis time	1.52333	129.25666	638.30424	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	24	15-05_Pondo_017_L.avi	23480	15.65333	Analysis time	1.52333	920.95372	535.96010	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	25	15-05_Pondo_017_L.avi	23480	15.65333	Analysis time	1.52333	1432.59467	724.48878	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	26	15-05_Pondo_017_L.avi	23728	15.81867	Analysis time	1.68867	1125.61010	541.34663	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	27	15-05_Pondo_017_L.avi	23728	15.81867	Analysis time	1.68867	1359.88780	560.19950	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	28	15-05_Pondo_017_L.avi	23991	15.99400	Analysis time	1.86400	80.78541	649.07731	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	29	15-05_Pondo_017_L.avi	23991	15.99400	Analysis time	1.86400	1087.91024	632.91771	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	30	15-05_Pondo_017_L.avi	23991	15.99400	Analysis time	1.86400	1871.52875	457.85536	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	31	15-05_Pondo_017_L.avi	23991	15.99400	Analysis time	1.86400	1507.99439	673.31671	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	32	15-05_Pondo_017_L.avi	24777	16.51800	Analysis time	2.38800	1362.58065	716.40898	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	33	15-05_Pondo_017_L.avi	24777	16.51800	Analysis time	2.38800	1031.36045	632.91771	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	34	15-05_Pondo_017_L.avi	24777	16.51800	Analysis time	2.38800	560.11220	506.33416	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	35	15-05_Pondo_017_L.avi	24777	16.51800	Analysis time	2.38800	487.40533	183.14214	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	36	15-05_Pondo_017_L.avi	25921	17.28067	Analysis time	3.15067	129.25666	740.64838	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	37	15-05_Pondo_017_L.avi	25921	17.28067	Analysis time	3.15067	595.11921	409.37656	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	38	15-05_Pondo_017_L.avi	25921	17.28067	Analysis time	3.15067	476.63394	732.56858	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	39	15-05_Pondo_017_L.avi	25921	17.28067	Analysis time	3.15067	1104.06732	603.29177	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	40	15-05_Pondo_017_L.avi	25921	17.28067	Analysis time	3.15067	1424.51613	719.10224	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	41	15-05_Pondo_017_L.avi	25921	17.28067	Analysis time	3.15067	1788.05049	719.10224	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	42	15-05_Pondo_017_L.avi	27527	18.35133	Analysis time	4.22133	1561.85133	234.31421	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	43	15-05_Pondo_017_L.avi	28215	18.81000	Analysis time	4.68000	517.02665	307.03242	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+15-05_Pondo_017	44	15-05_Pondo_017_L.avi	31084	20.72267	Analysis time	6.59267	452.39832	702.94264	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	45	15-05_Pondo_017_L.avi	31084	20.72267	Analysis time	6.59267	570.88359	632.91771	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	46	15-05_Pondo_017_L.avi	31084	20.72267	Analysis time	6.59267	702.83310	694.86284	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	47	15-05_Pondo_017_L.avi	31084	20.72267	Analysis time	6.59267	861.71108	651.77057	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	48	15-05_Pondo_017_L.avi	31084	20.72267	Analysis time	6.59267	845.55400	444.38903	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	49	15-05_Pondo_017_L.avi	31084	20.72267	Analysis time	6.59267	1464.90884	651.77057	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	50	15-05_Pondo_017_L.avi	31084	20.72267	Analysis time	6.59267	1726.11501	611.37157	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	51	15-05_Pondo_017_L.avi	31084	20.72267	Analysis time	6.59267	1866.14306	1071.92020	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	52	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	212.73492	972.26933	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	53	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	409.31276	829.52618	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	54	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	514.33380	716.40898	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	55	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	980.19635	702.94264	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	56	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	1130.99579	546.73317	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	57	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	1419.13043	546.73317	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	58	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	1419.13043	729.87531	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	59	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	1481.06592	756.80798	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	60	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	1685.72230	700.24938	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	61	15-05_Pondo_017_L.avi	33907	22.60467	Analysis time	8.47467	1343.73072	616.75810	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_017	62	15-05_Pondo_017_L.avi	34084	22.72267	Analysis time	8.59267	223.50631	686.78304	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	63	15-05_Pondo_017_L.avi	34084	22.72267	Analysis time	8.59267	438.93408	395.91022	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	64	15-05_Pondo_017_L.avi	34084	22.72267	Analysis time	8.59267	1101.37447	272.01995	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	65	15-05_Pondo_017_L.avi	34084	22.72267	Analysis time	8.59267	1631.86536	59.25187	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_017	66	15-05_Pondo_017_L.avi	44372	29.58133	Analysis time	15.45133	1257.55961	403.99002	0.00000	0.00000	Sparidae	Chrysoblephus	cristiceps	34007	1	AD	Passing			
+15-05_Pondo_017	67	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	80.78541	449.77556	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	68	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	355.45582	557.50623	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	69	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	471.24825	842.99252	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	70	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	1028.66760	711.02244	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	71	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	1481.06592	721.79551	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	72	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	1591.47265	667.93017	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	73	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	1774.58626	544.03990	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	74	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	1887.68583	630.22444	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	75	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	140.02805	692.16958	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	76	15-05_Pondo_017_L.avi	44560	29.70667	Analysis time	15.57667	24.23562	724.48878	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_017	77	15-05_Pondo_017_L.avi	45209	30.13933	Analysis time	16.00933	1039.43899	455.16209	0.00000	0.00000	Sparidae	Chrysoblephus	cristiceps	34007	1	AD	Passing			
+15-05_Pondo_017	78	15-05_Pondo_017_L.avi	45209	30.13933	Analysis time	16.00933	1381.43058	398.60349	0.00000	0.00000	Sparidae	Chrysoblephus	cristiceps	34007	1	AD	Passing			
+15-05_Pondo_017	79	15-05_Pondo_017_L.avi	46210	30.80667	Analysis time	16.67667	856.32539	816.05985	0.00000	0.00000	Sparidae	Chrysoblephus	cristiceps	34007	1	AD	Passing			
+15-05_Pondo_017	80	15-05_Pondo_017_L.avi	46210	30.80667	Analysis time	16.67667	1176.77419	573.66584	0.00000	0.00000	Sparidae	Chrysoblephus	cristiceps	34007	1	AD	Passing			
+15-05_Pondo_017	81	15-05_Pondo_017_L.avi	60694	40.46267	Analysis time	26.33267	1260.25245	452.46883	0.00000	0.00000	Cheilodactylidae	Chirodactylus	jessicalenorum	6002	1	AD	Passing			
+15-05_Pondo_017	82	15-05_Pondo_017_L.avi	77883	51.92200	Analysis time	37.79200	718.99018	605.98504	0.00000	0.00000	Serranidae	Epinephelus			1	AD	Passing			
+15-05_Pondo_017	83	15-05_Pondo_017_L.avi	90793	60.52867	Analysis time	46.39867	786.31136	546.73317	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+15-05_Pondo_017	84	15-05_Pondo_017_L.avi	90793	60.52867	Analysis time	46.39867	966.73212	444.38903	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+15-05_Pondo_017	85	15-05_Pondo_017_L.avi	90793	60.52867	Analysis time	46.39867	1351.80926	425.53616	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+15-05_Pondo_017	86	15-05_Pondo_017_L.avi	90793	60.52867	Analysis time	46.39867	1701.87938	640.99751	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+15-05_Pondo_017	87	15-05_Pondo_017_L.avi	90793	60.52867	Analysis time	46.39867	1882.30014	576.35910	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+15-05_Pondo_017	88	15-05_Pondo_017_L.avi	90793	60.52867	Analysis time	46.39867	1774.58626	673.31671	0.00000	0.00000	Sparidae	Pachymetopon	aeneum	34018	1	AD	Passing			
+15-05_Pondo_017	89	15-05_Pondo_017_L.avi	120728	80.48533	Analysis time	66.35533	869.78962	255.86035	0.00000	0.00000	Sparidae	Petrus	rupestris	34022	1	AD	Passing			
+15-05_Pondo_017	90	15-05_Pondo_017_L.avi	120733	80.48867	Analysis time	66.35867	794.38990	239.70075	0.00000	0.00000	Sparidae	Petrus	rupestris	34022	1	AD	Passing			
+15-05_Pondo_018	0	15-05_Pondo_018_L.avi	18334	12.22267	Analysis time	0.00000	1004.43198	676.00998	0.00000	0.00000								Time on sea floor		
+15-05_Pondo_018	1	15-05_Pondo_018_L.avi	19727	13.15133	Analysis time	0.92867	815.93268	366.28429	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_018	2	15-05_Pondo_018_L.avi	20308	13.53867	Analysis time	1.31600	1494.53015	183.14214	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_018	3	15-05_Pondo_018_L.avi	20308	13.53867	Analysis time	1.31600	985.58205	517.10723	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_018	4	15-05_Pondo_018_L.avi	20804	13.86933	Analysis time	1.64667	999.04628	603.29177	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_018	5	15-05_Pondo_018_L.avi	20804	13.86933	Analysis time	1.64667	1397.58766	140.04988	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_018	6	15-05_Pondo_018_L.avi	21111	14.07400	Analysis time	1.85133	1478.37307	560.19950	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_018	7	15-05_Pondo_018_L.avi	21111	14.07400	Analysis time	1.85133	1680.33661	126.58354	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_018	8	15-05_Pondo_018_L.avi	21352	14.23467	Analysis time	2.01200	1314.10940	91.57107	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_018	9	15-05_Pondo_018_L.avi	21817	14.54467	Analysis time	2.32200	1139.07433	261.24688	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_018	10	15-05_Pondo_018_L.avi	21817	14.54467	Analysis time	2.32200	1314.10940	274.71322	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_018	11	15-05_Pondo_018_L.avi	22217	14.81133	Analysis time	2.58867	732.45442	382.44389	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_018	12	15-05_Pondo_018_L.avi	22217	14.81133	Analysis time	2.58867	1782.66480	490.17456	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_018	13	15-05_Pondo_018_L.avi	39007	26.00467	Analysis time	13.78200	1252.17391	172.36908	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	0	15-05_Pondo_22_L.avi	14336	9.55733		-1.00000	506.25526	767.58105	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	1	15-05_Pondo_22_L.avi	14336	9.55733		-1.00000	557.41935	915.71072	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	2	15-05_Pondo_22_L.avi	14336	9.55733		-1.00000	748.61150	861.84539	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	3	15-05_Pondo_22_L.avi	14336	9.55733		-1.00000	1831.13604	654.46384	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	4	15-05_Pondo_22_L.avi	14336	9.55733		-1.00000	1701.87938	611.37157	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	5	15-05_Pondo_22_L.avi	14336	9.55733		-1.00000	1082.52454	622.14464	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	6	15-05_Pondo_22_L.avi	14336	9.55733		-1.00000	498.17672	886.08479	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	7	15-05_Pondo_22_L.avi	14336	9.55733		-1.00000	323.14165	781.04738	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	8	15-05_Pondo_22_L.avi	14351	9.56733	Analysis time	0.00000	1015.20337	649.07731	0.00000	0.00000								Time on sea floor		
+15-05_Pondo_022	9	15-05_Pondo_22_L.avi	14468	9.64533	Analysis time	0.07800	193.88499	735.26185	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	10	15-05_Pondo_22_L.avi	14468	9.64533	Analysis time	0.07800	255.82048	883.39152	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	11	15-05_Pondo_22_L.avi	14468	9.64533	Analysis time	0.07800	465.86255	966.88279	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	12	15-05_Pondo_22_L.avi	14468	9.64533	Analysis time	0.07800	953.26788	713.71571	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	13	15-05_Pondo_22_L.avi	14468	9.64533	Analysis time	0.07800	1443.36606	579.05237	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	14	15-05_Pondo_22_L.avi	14468	9.64533	Analysis time	0.07800	1532.23001	624.83791	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	15	15-05_Pondo_22_L.avi	14468	9.64533	Analysis time	0.07800	1521.45863	379.75062	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	16	15-05_Pondo_22_L.avi	14468	9.64533	Analysis time	0.07800	1704.57223	568.27930	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	17	15-05_Pondo_22_L.avi	14672	9.78133	Analysis time	0.21400	43.08555	915.71072	0.00000	0.00000	Labridae			84000	1	AD	Passing	Maybe bicolour cleaner		
+15-05_Pondo_022	18	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	53.85694	1028.82793	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	19	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	312.37027	1044.98753	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	20	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	341.99158	878.00499	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	21	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	613.96914	875.31172	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	22	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	894.02525	1018.05486	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	23	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	657.05470	549.42643	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	24	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	942.49649	301.64589	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	25	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	1297.95231	654.46384	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	26	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	1254.86676	460.54863	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	27	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	1470.29453	603.29177	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	28	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	1618.40112	417.45636	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	29	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	1750.35063	333.96509	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	30	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	1656.10098	627.53117	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	31	15-05_Pondo_22_L.avi	15078	10.05200	Analysis time	0.48467	1847.29313	702.94264	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	32	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	164.26367	1020.74813	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	33	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	26.92847	939.95012	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	34	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	234.27770	961.49626	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	35	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	158.87798	743.34165	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	36	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	667.82609	832.21945	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	37	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	589.73352	759.50125	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	38	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	1642.63675	538.65337	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	39	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	1839.21459	802.59352	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	40	15-05_Pondo_22_L.avi	15315	10.21000	Analysis time	0.64267	767.46143	1009.97506	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	41	15-05_Pondo_22_L.avi	15601	10.40067	Analysis time	0.83333	508.94811	533.26683	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	42	15-05_Pondo_22_L.avi	16849	11.23267	Analysis time	1.66533	298.90603	1018.05486	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	43	15-05_Pondo_22_L.avi	16849	11.23267	Analysis time	1.66533	331.22020	948.02993	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	44	15-05_Pondo_22_L.avi	16849	11.23267	Analysis time	1.66533	204.65638	875.31172	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	45	15-05_Pondo_22_L.avi	16849	11.23267	Analysis time	1.66533	519.71950	824.13965	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	46	15-05_Pondo_22_L.avi	16849	11.23267	Analysis time	1.66533	753.99719	921.09726	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	47	15-05_Pondo_22_L.avi	16849	11.23267	Analysis time	1.66533	875.17532	878.00499	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	48	15-05_Pondo_22_L.avi	16849	11.23267	Analysis time	1.66533	1112.14586	1031.52120	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	49	15-05_Pondo_22_L.avi	16849	11.23267	Analysis time	1.66533	1182.15989	818.75312	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	50	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	35.00701	991.12219	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	51	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	331.22020	939.95012	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	52	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	134.64236	848.37905	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	53	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	667.82609	554.81297	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	54	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	1257.55961	864.53865	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	55	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	1429.90182	926.48379	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	56	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	1836.52174	732.56858	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	57	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	1683.02945	288.17955	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	58	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	1421.82328	231.62095	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	59	15-05_Pondo_22_L.avi	16921	11.28067	Analysis time	1.71333	131.94951	1044.98753	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	60	15-05_Pondo_22_L.avi	17981	11.98733	Analysis time	2.42000	813.23983	740.64838	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	61	15-05_Pondo_22_L.avi	17981	11.98733	Analysis time	2.42000	1524.15147	565.58603	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	62	15-05_Pondo_22_L.avi	18167	12.11133	Analysis time	2.54400	535.87658	552.11970	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	63	15-05_Pondo_22_L.avi	18167	12.11133	Analysis time	2.54400	1284.48808	600.59850	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	64	15-05_Pondo_22_L.avi	18167	12.11133	Analysis time	2.54400	1731.50070	597.90524	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	65	15-05_Pondo_22_L.avi	18715	12.47667	Analysis time	2.90933	471.24825	597.90524	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	66	15-05_Pondo_22_L.avi	18715	12.47667	Analysis time	2.90933	681.29032	681.39651	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	67	15-05_Pondo_22_L.avi	18715	12.47667	Analysis time	2.90933	899.41094	872.61845	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	68	15-05_Pondo_22_L.avi	18715	12.47667	Analysis time	2.90933	1077.13885	514.41397	0.00000	0.00000	Lethrinidae	Lethrinus	nebulosus	18002	1	AD	Passing			
+15-05_Pondo_022	69	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	438.93408	1004.58853	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	70	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	328.52735	875.31172	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	71	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	530.49088	853.76559	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	72	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	543.95512	670.62344	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	73	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	764.76858	818.75312	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	74	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1004.43198	482.09476	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	75	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1058.28892	258.55362	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	76	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1685.72230	654.46384	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	77	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1866.14306	589.82544	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	78	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1543.00140	754.11471	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	79	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1459.52314	913.01746	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	80	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1688.41515	999.20200	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	81	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1866.14306	789.12718	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	82	15-05_Pondo_22_L.avi	19442	12.96133	Analysis time	3.39400	1338.34502	743.34165	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	83	15-05_Pondo_22_L.avi	19654	13.10267	Analysis time	3.53533	1254.86676	406.68329	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_022	84	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	115.79243	942.64339	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	85	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	659.74755	1028.82793	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	86	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	805.16129	853.76559	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	87	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	786.31136	649.07731	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	88	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1475.68022	762.19451	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	89	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1731.50070	950.72319	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	90	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1696.49369	829.52618	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	91	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1666.87237	654.46384	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	92	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1513.38008	366.28429	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	93	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1405.66620	479.40150	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	94	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1211.78121	654.46384	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	95	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1389.50912	659.85037	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	96	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1669.56522	511.72070	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	97	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1085.21739	665.23691	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	98	15-05_Pondo_22_L.avi	23094	15.39600	Analysis time	5.82867	1174.08135	872.61845	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	99	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	465.86255	1058.45387	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	100	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	1023.28191	1039.60100	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	101	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	565.49790	945.33666	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	102	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	185.80645	826.83292	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	103	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	32.31417	859.15212	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	104	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	24.23562	1042.29426	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	105	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	697.44741	799.90025	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	106	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	934.41795	880.69825	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	107	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	840.16830	692.16958	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	108	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	724.37588	589.82544	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	109	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	640.89762	525.18703	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	110	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	958.65358	581.74564	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	111	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	988.27489	665.23691	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	112	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	996.35344	702.94264	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	113	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	1160.61711	584.43890	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	114	15-05_Pondo_22_L.avi	24914	16.60933	Analysis time	7.04200	1330.26648	719.10224	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	115	15-05_Pondo_22_L.avi	26508	17.67200	Analysis time	8.10467	1176.77419	53.86534	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+15-05_Pondo_022	116	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	1392.20196	939.95012	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	117	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	1284.48808	797.20698	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	118	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	1157.92426	824.13965	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	119	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	1085.21739	1012.66833	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	120	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	974.81066	802.59352	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	121	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	678.59748	1034.21446	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	122	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	576.26928	980.34913	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	123	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	915.56802	576.35910	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	124	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	527.79804	266.63342	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	125	15-05_Pondo_22_L.avi	27307	18.20467	Analysis time	8.63733	1779.97195	921.09726	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_022	126	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	743.22581	958.80299	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	127	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	503.56241	1044.98753	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	128	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	393.15568	1044.98753	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	129	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	350.07013	999.20200	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	130	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	169.64937	805.28678	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	131	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	344.68443	786.43392	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	132	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	414.69846	530.57357	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	133	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	780.92567	614.06484	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	134	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	818.62553	832.21945	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	135	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	931.72511	684.08978	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	136	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	939.80365	627.53117	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	137	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	969.42496	371.67082	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	138	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	1252.17391	611.37157	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	139	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	1397.58766	611.37157	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	140	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	1540.30856	530.57357	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	141	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	1233.32398	794.51372	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	142	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	1144.46003	958.80299	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	143	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	1419.13043	894.16459	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	144	15-05_Pondo_22_L.avi	29740	19.82667	Analysis time	10.25933	1634.55820	950.72319	0.00000	0.00000	Sparidae	Chrysoblephus	puniceus	34011	1	AD	Passing			
+15-05_Pondo_022	145	15-05_Pondo_22_L.avi	31320	20.88000	Analysis time	11.31267	1238.70968	851.07232	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_022	146	15-05_Pondo_22_L.avi	31320	20.88000	Analysis time	11.31267	1338.34502	562.89277	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_022	147	15-05_Pondo_22_L.avi	31696	21.13067	Analysis time	11.56333	269.28471	191.22195	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_022	148	15-05_Pondo_22_L.avi	37978	25.31867	Analysis time	15.75133	1602.24404	527.88030	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+15-05_Pondo_022	149	15-05_Pondo_22_L.avi	41483	27.65533	Analysis time	18.08800	638.20477	169.67581	0.00000	0.00000	Carcharhinidae	Carcharhinus	brachyurus	5001	1	AD	Passing			
+15-05_Pondo_022	150	15-05_Pondo_22_L.avi	49223	32.81533	Analysis time	23.24800	1456.83029	113.11721	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+15-05_Pondo_022	151	15-05_Pondo_22_L.avi	49223	32.81533	Analysis time	23.24800	1782.66480	285.48628	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+15-05_Pondo_022	152	15-05_Pondo_22_L.avi	51596	34.39733	Analysis time	24.83000	460.47686	810.67332	0.00000	0.00000	Labridae	Coris	caudimacula	84023	1	AD	Passing			
+15-05_Pondo_022	153	15-05_Pondo_22_L.avi	64324	42.88267	Analysis time	33.31533	802.46844	323.19202	0.00000	0.00000	Sparidae	Polyamblydon	germanum	34035	1	AD	Passing			
+15-05_Pondo_022	154	15-05_Pondo_22_L.avi	84019	56.01267	Analysis time	46.44533	1036.74614	568.27930	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_022	155	15-05_Pondo_22_L.avi	84019	56.01267	Analysis time	46.44533	519.71950	333.96509	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_022	156	15-05_Pondo_22_L.avi	93697	62.46467	Analysis time	52.89733	102.32819	471.32170	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+15-05_Pondo_022	157	15-05_Pondo_22_L.avi	93697	62.46467	Analysis time	52.89733	121.17812	320.49875	0.00000	0.00000	Pomacanthidae	Pomacanthus	rhomboides	78001	1	AD	Passing			
+15-05_Pondo_022	158	15-05_Pondo_22_L.avi	114745	76.49667	Extra time	6.25400	511.64095	352.81796	0.00000	0.00000	Oplegnathidae	Oplegnathus	robinsoni	25002	1	AD	Passing			
+15-05_Pondo_026	0	15-05_Pondo_26_L.avi	8894	5.92933	Analysis time	0.00000	999.04628	643.69077	0.00000	0.00000								Time on sea floor		
+15-05_Pondo_026	1	15-05_Pondo_26_L.avi	9263	6.17533	Analysis time	0.24600	1346.42356	94.26434	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	2	15-05_Pondo_26_L.avi	9524	6.34933	Analysis time	0.42000	1341.03787	640.99751	0.00000	0.00000	Cheilodactylidae	Chirodactylus	brachydactylus	6003	1	AD	Passing			
+15-05_Pondo_026	3	15-05_Pondo_26_L.avi	9524	6.34933	Analysis time	0.42000	1565.89060	685.16708	0.00000	0.00000	Cheilodactylidae	Chirodactylus	brachydactylus	6003	1	AD	Passing			
+15-05_Pondo_026	4	15-05_Pondo_26_L.avi	9524	6.34933	Analysis time	0.42000	1421.82328	671.70075	0.00000	0.00000	Cheilodactylidae	Chirodactylus	brachydactylus	6003	1	AD	Passing			
+15-05_Pondo_026	5	15-05_Pondo_26_L.avi	9524	6.34933	Analysis time	0.42000	484.71248	611.37157	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	6	15-05_Pondo_26_L.avi	9524	6.34933	Analysis time	0.42000	716.29734	614.06484	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	7	15-05_Pondo_26_L.avi	9524	6.34933	Analysis time	0.42000	1521.45863	557.50623	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	8	15-05_Pondo_26_L.avi	9524	6.34933	Analysis time	0.42000	1055.59607	622.14464	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	9	15-05_Pondo_26_L.avi	10425	6.95000	Analysis time	1.02067	538.56942	500.94763	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_026	10	15-05_Pondo_26_L.avi	10585	7.05667	Analysis time	1.12733	271.97756	810.67332	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_026	11	15-05_Pondo_26_L.avi	10633	7.08867	Analysis time	1.15933	1392.20196	562.89277	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_026	12	15-05_Pondo_26_L.avi	10633	7.08867	Analysis time	1.15933	1820.36466	724.48878	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_026	13	15-05_Pondo_26_L.avi	11564	7.70933	Analysis time	1.78000	358.14867	686.78304	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	14	15-05_Pondo_26_L.avi	11564	7.70933	Analysis time	1.78000	447.01262	824.13965	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	15	15-05_Pondo_26_L.avi	11564	7.70933	Analysis time	1.78000	764.76858	937.25686	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	16	15-05_Pondo_26_L.avi	11564	7.70933	Analysis time	1.78000	727.06872	724.48878	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	17	15-05_Pondo_26_L.avi	11564	7.70933	Analysis time	1.78000	775.53997	597.90524	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	18	15-05_Pondo_26_L.avi	11564	7.70933	Analysis time	1.78000	1335.65217	635.61097	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	19	15-05_Pondo_26_L.avi	11603	7.73533	Analysis time	1.80600	331.22020	824.13965	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	20	15-05_Pondo_26_L.avi	11603	7.73533	Analysis time	1.80600	503.56241	813.36658	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	21	15-05_Pondo_26_L.avi	11603	7.73533	Analysis time	1.80600	420.08415	667.93017	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	22	15-05_Pondo_26_L.avi	11603	7.73533	Analysis time	1.80600	630.12623	694.86284	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	23	15-05_Pondo_26_L.avi	11603	7.73533	Analysis time	1.80600	832.08976	950.72319	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	24	15-05_Pondo_26_L.avi	11603	7.73533	Analysis time	1.80600	1225.24544	640.99751	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	25	15-05_Pondo_26_L.avi	11603	7.73533	Analysis time	1.80600	1734.19355	377.05736	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	26	15-05_Pondo_26_L.avi	11821	7.88067	Analysis time	1.95133	26.92847	708.32918	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_026	27	15-05_Pondo_26_L.avi	11821	7.88067	Analysis time	1.95133	1876.91445	816.05985	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_026	28	15-05_Pondo_26_L.avi	11993	7.99533	Analysis time	2.06600	64.62833	759.50125	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_026	29	15-05_Pondo_26_L.avi	11993	7.99533	Analysis time	2.06600	476.63394	708.32918	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_026	30	15-05_Pondo_26_L.avi	11993	7.99533	Analysis time	2.06600	420.08415	430.92269	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_026	31	15-05_Pondo_26_L.avi	11993	7.99533	Analysis time	2.06600	850.93969	597.90524	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_026	32	15-05_Pondo_26_L.avi	13199	8.79933	Analysis time	2.87000	1262.94530	546.73317	0.00000	0.00000	Cheilodactylidae	Chirodactylus	jessicalenorum	6002	1	AD	Passing	Either jessica or ttff		
+15-05_Pondo_026	33	15-05_Pondo_26_L.avi	13953	9.30200	Analysis time	3.37267	199.27069	1039.60100	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_026	34	15-05_Pondo_26_L.avi	13953	9.30200	Analysis time	3.37267	444.31978	568.27930	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_026	35	15-05_Pondo_26_L.avi	14389	9.59267	Analysis time	3.66333	129.25666	748.72818	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	36	15-05_Pondo_26_L.avi	14389	9.59267	Analysis time	3.66333	336.60589	684.08978	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	37	15-05_Pondo_26_L.avi	14389	9.59267	Analysis time	3.66333	888.63955	600.59850	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	38	15-05_Pondo_26_L.avi	14389	9.59267	Analysis time	3.66333	813.23983	972.26933	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	39	15-05_Pondo_26_L.avi	14389	9.59267	Analysis time	3.66333	923.64656	929.17706	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	40	15-05_Pondo_26_L.avi	14389	9.59267	Analysis time	3.66333	1238.70968	899.55112	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	41	15-05_Pondo_26_L.avi	14389	9.59267	Analysis time	3.66333	1494.53015	587.13217	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	42	15-05_Pondo_26_L.avi	14389	9.59267	Analysis time	3.66333	1604.93689	667.93017	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	43	15-05_Pondo_26_L.avi	15841	10.56067	Analysis time	4.63133	616.66199	581.74564	0.00000	0.00000	Pomacentridae	Chromis	woodsi	83052	1	AD	Passing			
+15-05_Pondo_026	44	15-05_Pondo_26_L.avi	19372	12.91467	Analysis time	6.98533	1798.82188	608.67830	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_026	45	15-05_Pondo_26_L.avi	20889	13.92600	Analysis time	7.99667	425.46985	619.45137	0.00000	0.00000	Cheilodactylidae	Chirodactylus	brachydactylus	6003	1	AD	Passing			
+15-05_Pondo_026	46	15-05_Pondo_26_L.avi	20889	13.92600	Analysis time	7.99667	562.80505	589.82544	0.00000	0.00000	Cheilodactylidae	Chirodactylus	brachydactylus	6003	1	AD	Passing			
+15-05_Pondo_026	47	15-05_Pondo_26_L.avi	20889	13.92600	Analysis time	7.99667	735.14727	597.90524	0.00000	0.00000	Cheilodactylidae	Chirodactylus	brachydactylus	6003	1	AD	Passing			
+15-05_Pondo_026	48	15-05_Pondo_26_L.avi	26091	17.39400	Analysis time	11.46467	245.04909	864.53865	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_026	49	15-05_Pondo_26_L.avi	26091	17.39400	Analysis time	11.46467	848.24684	713.71571	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_026	50	15-05_Pondo_26_L.avi	26091	17.39400	Analysis time	11.46467	1825.75035	958.80299	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_026	51	15-05_Pondo_26_L.avi	27357	18.23800	Analysis time	12.30867	1823.05750	786.43392	0.00000	0.00000	Serranidae	Lipropoma	spp1	33051	1	AD	Passing	Liopropoma spp		
+15-05_Pondo_026	52	15-05_Pondo_26_L.avi	31168	20.77867	Analysis time	14.84933	1890.37868	743.34165	0.00000	0.00000	Labridae	Bodianus	trilineatus	84059	1	AD	Passing			
+15-05_Pondo_026	53	15-05_Pondo_26_L.avi	33520	22.34667	Analysis time	16.41733	212.73492	727.18204	0.00000	0.00000	Blenniidae		spp		1	AD	Passing	Not sure but two individuals playing		
+15-05_Pondo_026	54	15-05_Pondo_26_L.avi	33558	22.37200	Analysis time	16.44267	568.19074	899.55112	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	J	Passing	Tiny (<5cm)		
+15-05_Pondo_026	55	15-05_Pondo_26_L.avi	34071	22.71400	Analysis time	16.78467	1521.45863	579.05237	0.00000	0.00000	Labridae	Bodianus	trilineatus	84059	1	AD	Passing			
+15-05_Pondo_026	56	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	110.40673	600.59850	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	57	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	67.32118	692.16958	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	58	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	123.87097	781.04738	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	59	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	210.04208	840.29925	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	60	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	546.64797	759.50125	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	61	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	581.65498	931.87032	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	62	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	727.06872	805.28678	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	63	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	859.01823	665.23691	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	64	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	1025.97475	678.70324	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	65	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	1664.17952	667.93017	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	66	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	1448.75175	762.19451	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	67	15-05_Pondo_26_L.avi	34289	22.85933	Analysis time	16.93000	1402.97335	837.60599	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	68	15-05_Pondo_26_L.avi	35285	23.52333	Analysis time	17.59400	444.31978	945.33666	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_026	69	15-05_Pondo_26_L.avi	35992	23.99467	Analysis time	18.06533	422.77700	643.69077	0.00000	0.00000	Pomacentridae	Chromis	woodsi	83052	1	AD	Passing			
+15-05_Pondo_026	70	15-05_Pondo_26_L.avi	37163	24.77533	Analysis time	18.84600	444.31978	425.53616	0.00000	0.00000	Serranidae	Epinephelus	albomarginatus	33001	1	AD	Passing			
+15-05_Pondo_026	71	15-05_Pondo_26_L.avi	44244	29.49600	Analysis time	23.56667	853.63254	201.99501	0.00000	0.00000	Serranidae	Epinephelus	albomarginatus	33001	1	AD	Passing			
+15-05_Pondo_026	72	15-05_Pondo_26_L.avi	45607	30.40467	Analysis time	24.47533	1820.36466	778.35411	0.00000	0.00000	Serranidae	Lipropoma	spp1	33051	1	AD	Passing	Liopropoma again. Better in right vi		
+15-05_Pondo_026	73	15-05_Pondo_26_L.avi	48417	32.27800	Analysis time	26.34867	800.86255	588.31421	0.00000	0.00000	Pomacentridae	Chromis	woodsi	83052	1	AD	Passing			
+15-05_Pondo_026	74	15-05_Pondo_26_L.avi	48417	32.27800	Analysis time	26.34867	1058.02945	619.28678	0.00000	0.00000	Pomacentridae	Chromis	woodsi	83052	1	AD	Passing			
+15-05_Pondo_026	75	15-05_Pondo_26_L.avi	48663	32.44200	Analysis time	26.51267	708.21879	605.98504	0.00000	0.00000	Pomacentridae	Chromis	woodsi	83052	1	AD	Passing			
+15-05_Pondo_026	76	15-05_Pondo_26_L.avi	48663	32.44200	Analysis time	26.51267	842.86115	627.53117	0.00000	0.00000	Pomacentridae	Chromis	woodsi	83052	1	AD	Passing			
+15-05_Pondo_026	77	15-05_Pondo_26_L.avi	48663	32.44200	Analysis time	26.51267	1130.99579	657.15711	0.00000	0.00000	Pomacentridae	Chromis	woodsi	83052	1	AD	Passing			
+15-05_Pondo_026	78	15-05_Pondo_26_L.avi	48910	32.60667	Analysis time	26.67733	1312.76157	649.97756	0.00000	0.00000	Serranidae	Lipropoma	spp1	33051	1	AD	Passing			
+15-05_Pondo_27	0	15-05_Pondo_27_L.avi	10888	7.25867	Analysis time	0.00000	1017.89621	616.75810	0.00000	0.00000								Time on sea floor		
+15-05_Pondo_27	1	15-05_Pondo_27_L.avi	11434	7.62267	Analysis time	0.36400	891.33240	495.56110	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	2	15-05_Pondo_27_L.avi	11598	7.73200	Analysis time	0.47333	1311.41655	406.68329	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	3	15-05_Pondo_27_L.avi	11598	7.73200	Analysis time	0.47333	1631.86536	546.73317	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	4	15-05_Pondo_27_L.avi	11834	7.88933	Analysis time	0.63067	826.70407	649.07731	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	5	15-05_Pondo_27_L.avi	11834	7.88933	Analysis time	0.63067	1141.76718	549.42643	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	6	15-05_Pondo_27_L.avi	11834	7.88933	Analysis time	0.63067	1645.32959	576.35910	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	7	15-05_Pondo_27_L.avi	11867	7.91133	Analysis time	0.65267	681.29032	535.96010	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	8	15-05_Pondo_27_L.avi	11867	7.91133	Analysis time	0.65267	1147.15288	635.61097	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	9	15-05_Pondo_27_L.avi	11867	7.91133	Analysis time	0.65267	1446.05891	530.57357	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	10	15-05_Pondo_27_L.avi	11867	7.91133	Analysis time	0.65267	1852.67882	646.38404	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	11	15-05_Pondo_27_L.avi	12085	8.05667	Analysis time	0.79800	1744.96494	433.61596	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	12	15-05_Pondo_27_L.avi	12085	8.05667	Analysis time	0.79800	1804.20757	562.89277	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	13	15-05_Pondo_27_L.avi	12085	8.05667	Analysis time	0.79800	888.63955	624.83791	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	14	15-05_Pondo_27_L.avi	12085	8.05667	Analysis time	0.79800	840.16830	323.19202	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	15	15-05_Pondo_27_L.avi	12085	8.05667	Analysis time	0.79800	673.21178	476.70823	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	16	15-05_Pondo_27_L.avi	12085	8.05667	Analysis time	0.79800	425.46985	632.91771	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	17	15-05_Pondo_27_L.avi	12427	8.28467	Analysis time	1.02600	867.09677	328.57855	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	18	15-05_Pondo_27_L.avi	12818	8.54533	Analysis time	1.28667	786.31136	439.00249	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	19	15-05_Pondo_27_L.avi	12818	8.54533	Analysis time	1.28667	1109.45302	538.65337	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	20	15-05_Pondo_27_L.avi	13031	8.68733	Analysis time	1.42867	417.39130	379.75062	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	21	15-05_Pondo_27_L.avi	13031	8.68733	Analysis time	1.42867	522.41234	525.18703	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	22	15-05_Pondo_27_L.avi	13031	8.68733	Analysis time	1.42867	646.28331	455.16209	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	23	15-05_Pondo_27_L.avi	13031	8.68733	Analysis time	1.42867	753.99719	570.97257	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	24	15-05_Pondo_27_L.avi	13318	8.87867	Analysis time	1.62000	573.57644	721.79551	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_27	25	15-05_Pondo_27_L.avi	13977	9.31800	Analysis time	2.05933	1701.87938	444.38903	0.00000	0.00000	Sparidae	Chrysoblephus	lophus	34010	1	AD	Passing			
+15-05_Pondo_27	26	15-05_Pondo_27_L.avi	16566	11.04400	Analysis time	3.78533	829.39691	600.59850	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_27	27	15-05_Pondo_27_L.avi	16566	11.04400	Analysis time	3.78533	37.69986	945.33666	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_27	28	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	61.93548	869.92519	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	29	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	83.47826	977.65586	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	30	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	931.72511	872.61845	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	31	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	1144.46003	740.64838	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	32	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	1365.27349	826.83292	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	33	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	1381.43058	772.96758	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	34	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	1510.68724	387.83042	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	35	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	1750.35063	670.62344	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	36	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	1863.45021	557.50623	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	37	15-05_Pondo_27_L.avi	16884	11.25600	Analysis time	3.99733	1823.05750	721.79551	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	38	15-05_Pondo_27_L.avi	19401	12.93400	Analysis time	5.67533	848.24684	783.74065	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	39	15-05_Pondo_27_L.avi	21630	14.42000	Analysis time	7.16133	476.63394	931.87032	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_27	40	15-05_Pondo_27_L.avi	25087	16.72467	Analysis time	9.46600	1470.29453	455.16209	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_27	41	15-05_Pondo_27_L.avi	25087	16.72467	Analysis time	9.46600	1650.71529	576.35910	0.00000	0.00000	Serranidae	Serranus	knysnaensis	33019	1	AD	Passing			
+15-05_Pondo_27	42	15-05_Pondo_27_L.avi	26597	17.73133	Analysis time	10.47267	1839.21459	449.77556	0.00000	0.00000	Serranidae	Aulacocephalus	temminckii	33017	1	AD	Passing			
+15-05_Pondo_27	43	15-05_Pondo_27_L.avi	29772	19.84800	Analysis time	12.58933	1147.15288	495.56110	0.00000	0.00000	Serranidae	Aulacocephalus	temminckii	33017	1	AD	Passing			
+15-05_Pondo_27	44	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	126.56381	1018.05486	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	45	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	589.73352	937.25686	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	46	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	810.54698	826.83292	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	47	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	947.88219	632.91771	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	48	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	947.88219	576.35910	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	49	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	1176.77419	535.96010	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	50	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	1219.85975	832.21945	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	51	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	1400.28050	797.20698	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	52	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	1392.20196	622.14464	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	53	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	1529.53717	600.59850	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	54	15-05_Pondo_27_L.avi	37212	24.80800	Analysis time	17.54933	1785.35764	600.59850	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_27	55	15-05_Pondo_27_L.avi	67152	44.76800	Analysis time	37.50933	514.33380	425.53616	0.00000	0.00000	Carcharhinidae	Carcharhinus	brachyurus	5001	1	AD	Passing			
+15-05_Pondo_27	56	15-05_Pondo_27_L.avi	74930	49.95333	Analysis time	42.69467	710.91164	589.82544	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	57	15-05_Pondo_27_L.avi	74930	49.95333	Analysis time	42.69467	867.09677	317.80549	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	58	15-05_Pondo_27_L.avi	74930	49.95333	Analysis time	42.69467	1405.66620	401.29676	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	59	15-05_Pondo_27_L.avi	74930	49.95333	Analysis time	42.69467	1790.74334	449.77556	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	60	15-05_Pondo_27_L.avi	74930	49.95333	Analysis time	42.69467	1849.98597	630.22444	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	61	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	266.59187	355.51122	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	62	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	438.93408	371.67082	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	63	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	853.63254	59.25187	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	64	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	1222.55259	622.14464	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	65	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	1381.43058	320.49875	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	66	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	1362.58065	417.45636	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	67	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	1421.82328	474.01496	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	68	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	1572.62272	495.56110	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	69	15-05_Pondo_27_L.avi	75585	50.39000	Analysis time	43.13133	1656.10098	460.54863	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	70	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	398.54137	624.83791	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	71	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	546.64797	191.22195	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	72	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	810.54698	549.42643	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	73	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1060.98177	474.01496	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	74	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1031.36045	126.58354	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	75	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1316.80224	51.17207	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	76	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1279.10238	331.27182	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	77	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1351.80926	412.06983	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	78	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1548.38710	358.20449	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	79	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1217.16690	538.65337	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	80	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1195.62412	403.99002	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	81	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1586.08696	468.62843	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	82	15-05_Pondo_27_L.avi	76462	50.97467	Analysis time	43.71600	1893.07153	444.38903	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_27	83	15-05_Pondo_27_L.avi	76913	51.27533	Analysis time	44.01667	1844.60028	88.87781	0.00000	0.00000	Oplegnathidae	Oplegnathus	conwayi	25001	1	AD	Passing			
+15-05_Pondo_27	84	15-05_Pondo_27_L.avi	78348	52.23200	Analysis time	44.97333	894.02525	368.97756	0.00000	0.00000	Oplegnathidae	Oplegnathus	conwayi	25001	1	AD	Passing			
+15-05_Pondo_27	85	15-05_Pondo_27_L.avi	79139	52.75933	Analysis time	45.50067	492.79102	455.16209	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_27	86	15-05_Pondo_27_L.avi	83764	55.84267	Analysis time	48.58400	1683.02945	390.52369	0.00000	0.00000	Zeidae	Zeus	faber	66001	1	AD	Passing			
+15-05_Pondo_27	87	15-05_Pondo_27_L.avi	83812	55.87467	Analysis time	48.61600	1680.33661	587.13217	0.00000	0.00000	Zeidae	Zeus	faber	66001	1	AD	Passing			
+15-05_Pondo_27	88	15-05_Pondo_27_L.avi	83874	55.91600	Analysis time	48.65733	1677.64376	425.53616	0.00000	0.00000	Zeidae	Zeus	faber	66001	1	AD	Passing			
+15-05_Pondo_27	89	15-05_Pondo_27_L.avi	86398	57.59867	Analysis time	50.34000	1631.86536	350.12469	0.00000	0.00000	Zeidae	Zeus	faber	66001	1	AD	Passing			
+15-05_Pondo_27	90	15-05_Pondo_27_L.avi	99677	66.45133	Analysis time	59.19267	848.24684	611.37157	0.00000	0.00000	Dasyatidae	Dasyatis	chrysonota	8001	1	AD	Passing			
+15-05_Pondo_27	91	15-05_Pondo_27_L.avi	100220	66.81333	Analysis time	59.55467	888.63955	743.34165	0.00000	0.00000	Dasyatidae	Dasyatis	chrysonota	8001	1	AD	Passing			
+15-05_Pondo_27	92	15-05_Pondo_27_L.avi	100249	66.83267	Analysis time	59.57400	648.97616	719.10224	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+15-05_Pondo_27	93	15-05_Pondo_27_L.avi	101453	67.63533	Extra time	0.36733	1233.32398	455.16209	0.00000	0.00000	Sparidae	Chrysoblephus	lophus	34010	1	AD	Passing			
+15-05_Pondo_27	94	15-05_Pondo_27_L.avi	101453	67.63533	Extra time	0.36733	1755.73633	554.81297	0.00000	0.00000	Sparidae	Chrysoblephus	lophus	34010	1	AD	Passing			
+15-05_Pondo_27	95	15-05_Pondo_27_L.avi	102306	68.20400	Extra time	0.93600	1411.05189	546.73317	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+15-05_Pondo_27	96	15-05_Pondo_27_L.avi	103082	68.72133	Extra time	1.45333	1494.53015	371.67082	0.00000	0.00000	Zeidae	Zeus	faber	66001	1	AD	Passing			
+15-05_Pondo_27	97	15-05_Pondo_27_L.avi	119984	79.98933	Extra time	12.72133	1771.89341	237.00748	0.00000	0.00000	Carangidae	Seriola	dumerili	4007	1	AD	Passing			
+15-05_Pondo_27	98	15-05_Pondo_27_L.avi	119984	79.98933	Extra time	12.72133	1284.48808	242.39401	0.00000	0.00000	Carangidae	Seriola	dumerili	4007	1	AD	Passing			
+15-05_Pondo_27	99	15-05_Pondo_27_L.avi	119984	79.98933	Extra time	12.72133	1047.51753	37.70574	0.00000	0.00000	Carangidae	Seriola	dumerili	4007	1	AD	Passing			
+15-05_Pondo_028	0	15-05_Pondo_28_L.avi	6833	4.55533	Analysis time	0.00000	1031.36045	772.96758	0.00000	0.00000								Time on sea floor		
+15-05_Pondo_028	1	15-05_Pondo_28_L.avi	7640	5.09333	Analysis time	0.53800	37.69986	552.11970	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	2	15-05_Pondo_28_L.avi	7640	5.09333	Analysis time	0.53800	931.72511	455.16209	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	3	15-05_Pondo_28_L.avi	7640	5.09333	Analysis time	0.53800	891.33240	546.73317	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	4	15-05_Pondo_28_L.avi	7998	5.33200	Analysis time	0.77667	969.42496	498.25436	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	5	15-05_Pondo_28_L.avi	7998	5.33200	Analysis time	0.77667	1378.73773	587.13217	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	6	15-05_Pondo_28_L.avi	7998	5.33200	Analysis time	0.77667	1779.97195	557.50623	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	7	15-05_Pondo_28_L.avi	7998	5.33200	Analysis time	0.77667	1884.99299	398.60349	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	8	15-05_Pondo_28_L.avi	10942	7.29467	Analysis time	2.73933	428.16269	562.96758	0.00000	0.00000	Ostraciidae	Tetrosomus	reipubli	91007	1	AD	Passing	Unsure. Maybe Tetrosomus reipubli		
+15-05_Pondo_028	9	15-05_Pondo_28_L.avi	13650	9.10000	Analysis time	4.54467	770.15428	732.56858	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	10	15-05_Pondo_28_L.avi	13650	9.10000	Analysis time	4.54467	961.34642	614.06484	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	11	15-05_Pondo_28_L.avi	13650	9.10000	Analysis time	4.54467	1295.25947	549.42643	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	12	15-05_Pondo_28_L.avi	13650	9.10000	Analysis time	4.54467	1615.70827	541.34663	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	13	15-05_Pondo_28_L.avi	13650	9.10000	Analysis time	4.54467	1763.81487	686.78304	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	J	Passing			
+15-05_Pondo_028	14	15-05_Pondo_28_L.avi	14330	9.55333	Analysis time	4.99800	1551.07994	478.00748	0.00000	0.00000	Ostraciidae	Tetrosomus	reipubli	91007	1	AD	Passing			
+15-05_Pondo_028	15	15-05_Pondo_28_L.avi	15966	10.64400	Analysis time	6.08867	288.13464	570.97257	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	16	15-05_Pondo_28_L.avi	15966	10.64400	Analysis time	6.08867	783.61851	859.15212	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	17	15-05_Pondo_28_L.avi	15966	10.64400	Analysis time	6.08867	1071.75316	552.11970	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	18	15-05_Pondo_28_L.avi	15966	10.64400	Analysis time	6.08867	1214.47405	624.83791	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	19	15-05_Pondo_28_L.avi	15966	10.64400	Analysis time	6.08867	1491.83731	689.47631	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	20	15-05_Pondo_28_L.avi	15966	10.64400	Analysis time	6.08867	1586.08696	581.74564	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	21	15-05_Pondo_28_L.avi	16055	10.70333	Analysis time	6.14800	630.12623	840.29925	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	22	15-05_Pondo_28_L.avi	16055	10.70333	Analysis time	6.14800	751.30435	482.09476	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	23	15-05_Pondo_28_L.avi	16055	10.70333	Analysis time	6.14800	1548.38710	18.85287	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	24	15-05_Pondo_28_L.avi	16055	10.70333	Analysis time	6.14800	1599.55119	600.59850	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	25	15-05_Pondo_28_L.avi	16055	10.70333	Analysis time	6.14800	1233.32398	689.47631	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	26	15-05_Pondo_28_L.avi	16055	10.70333	Analysis time	6.14800	1209.08836	554.81297	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	27	15-05_Pondo_28_L.avi	16055	10.70333	Analysis time	6.14800	1378.73773	824.13965	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	28	15-05_Pondo_28_L.avi	16061	10.70733	Analysis time	6.15200	646.28331	754.11471	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	29	15-05_Pondo_28_L.avi	16061	10.70733	Analysis time	6.15200	716.29734	436.30923	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	30	15-05_Pondo_28_L.avi	16061	10.70733	Analysis time	6.15200	1136.38149	541.34663	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	31	15-05_Pondo_28_L.avi	16061	10.70733	Analysis time	6.15200	1341.03787	624.83791	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	32	15-05_Pondo_28_L.avi	16061	10.70733	Analysis time	6.15200	1435.28752	716.40898	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	33	15-05_Pondo_28_L.avi	16061	10.70733	Analysis time	6.15200	1602.24404	552.11970	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	34	15-05_Pondo_28_L.avi	16061	10.70733	Analysis time	6.15200	1618.40112	45.78554	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	35	15-05_Pondo_28_L.avi	16061	10.70733	Analysis time	6.15200	1876.91445	414.76309	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	36	15-05_Pondo_28_L.avi	16334	10.88933	Analysis time	6.33400	336.60589	474.01496	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_028	37	15-05_Pondo_28_L.avi	16418	10.94533	Analysis time	6.39000	134.64236	581.74564	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_028	38	15-05_Pondo_28_L.avi	16418	10.94533	Analysis time	6.39000	1042.13184	492.86783	0.00000	0.00000	Sparidae	Polysteganus	praeorbitalis	34024	1	AD	Passing			
+15-05_Pondo_028	39	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	35.00701	522.49377	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	40	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	250.43478	595.21197	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	41	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	498.17672	492.86783	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	42	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	503.56241	816.05985	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	43	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	657.05470	851.07232	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	44	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	767.46143	665.23691	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	45	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	1349.11641	676.00998	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	46	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	1545.69425	719.10224	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	47	15-05_Pondo_28_L.avi	17582	11.72133	Analysis time	7.16600	1825.75035	530.57357	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	48	15-05_Pondo_28_L.avi	19598	13.06533	Analysis time	8.51000	1518.76578	118.50374	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	49	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	121.17812	570.97257	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	50	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	199.27069	694.86284	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	51	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	387.76999	721.79551	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	52	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	522.41234	837.60599	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	53	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	815.93268	570.97257	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	54	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	745.91865	748.72818	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	55	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	953.26788	732.56858	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	56	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	1548.38710	705.63591	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	57	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	1386.81627	705.63591	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	58	15-05_Pondo_28_L.avi	19869	13.24600	Analysis time	8.69067	1448.75175	573.66584	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	59	15-05_Pondo_28_L.avi	22453	14.96867	Analysis time	10.41333	762.07574	156.20948	0.00000	0.00000	Mullidae	Parupeneus	rubescens	86002	1	AD	Passing			
+15-05_Pondo_028	60	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	110.40673	732.56858	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	61	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	247.74194	667.93017	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	62	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	638.20477	463.24190	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	63	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	573.57644	676.00998	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	64	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	745.91865	764.88778	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	65	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	926.33941	853.76559	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	66	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	1069.06031	743.34165	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	67	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	912.87518	667.93017	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	68	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	875.17532	420.14963	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	69	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	1351.80926	673.31671	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	70	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	1766.50771	557.50623	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	71	15-05_Pondo_28_L.avi	27523	18.34867	Analysis time	13.79333	1607.62973	339.35162	0.00000	0.00000	Sparidae	Chrysoblephus	anglicus	34006	1	AD	Passing			
+15-05_Pondo_028	72	15-05_Pondo_28_L.avi	29915	19.94333	Analysis time	15.38800	939.80365	856.45885	0.00000	0.00000	Sparidae	Porcostoma	dentata	34026	1	AD	Passing			
+15-05_Pondo_028	73	15-05_Pondo_28_L.avi	54393	36.26200	Analysis time	31.70667	762.07574	245.08728	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_028	74	15-05_Pondo_28_L.avi	78115	52.07667	Analysis time	47.52133	972.11781	425.53616	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing			
+15-05_Pondo_028	75	15-05_Pondo_28_L.avi	78115	52.07667	Analysis time	47.52133	1254.86676	395.91022	0.00000	0.00000	Sparidae	Cheimerius	nufar	34005	1	AD	Passing

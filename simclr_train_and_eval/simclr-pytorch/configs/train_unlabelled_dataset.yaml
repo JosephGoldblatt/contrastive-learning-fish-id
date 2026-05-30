@@ -1,0 +1,36 @@
+# SimCLR Pretraining Configuration for 38K Unlabeled Dataset
+problem: sim-clr
+arch: ResNet50
+data: imagenet  # Uses ImageFolder format
+
+# Training parameters optimized for 38K images
+batch_size: 256  # Adjust based on GPU memory
+iters: 50000
+lr: 1.0
+lr_schedule: warmup-anneal
+warmup: 0.1
+weight_decay: 1.0e-06
+opt: lars
+
+# SimCLR specific parameters
+temperature: 0.15
+multiplier: 2
+color_dist_s: 1.0
+scale_lower: 0.08
+aug: true
+sync_bn: false  # Set to true if using multiple GPUs with DDP
+
+# Data loading
+workers: 4
+
+# Logging and checkpointing
+log_freq: 100
+save_freq: 5000   # Save every 5000 iterations
+eval_freq: 5000   # Evaluate every 5000 iterations
+
+# Distribution
+dist: dp  # Change to ddp for multi-GPU
+
+# Reproducibility
+seed: 42
+verbose: true
